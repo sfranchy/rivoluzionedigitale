@@ -1,6 +1,539 @@
 # Indice lezioni di Rivoluzione Digitale (beta)
 
-By Simone Basso, Davide Palermo et al. &mdash; License: CC BY-SA 3.0 Unported
+By Simone Basso, Davide Palermo, Sebastiano Franchina, Antonio
+Langiu, Giuseppe Ripa, et al. &mdash; License: CC BY-SA 3.0 Unported
+
+## Elenco lezioni
+
+- 14 Giugno 2013
+- 12 Giugno 2013
+- [07 Giugno 2013](#2013-06-07) {work in progress: Luca Liuzzi}
+- [05 Giugno 2013](#2013-06-05) {work in progress: Fausto Conigliaro}
+- [31 Maggio 2013](#2013-05-31) {work in progress: Sebastiano Franchina}
+- [29 Maggio 2013](#2013-05-29) {work in progress: Davide Palermo}
+- [24 Maggio 2013](#2013-05-24)
+- [22 Maggio 2013](#2013-05-22)
+- [17 Maggio 2013](#2013-05-17)
+- [15 Maggio 2013](#2013-05-15)
+- [10 Maggio 2013](#2013-05-10) {work in progress: Antonio Langiu}
+- [08 Maggio 2013](#2013-05-08)
+- [03 Maggio 2013](#2013-05-03) {work in progress: Lorenzo Cutelle'}
+- [26 Aprile 2013](#2013-04-26)
+- [24 Aprile 2013](#2013-04-24)
+- [19 Aprile 2013](#2013-04-19)
+- [17 Aprile 2013](#2013-04-17)
+- [12 Aprile 2013](#2013-04-12)
+- 10 Aprile 2013
+- [05 Aprile 2013](#2013-04-05) {rivista da: Giuseppe Ripa}
+- [27 Marzo 2013](#2013-03-27)
+- 22 Marzo 2013
+- [20 Marzo 2013](#2013-03-20)
+
+
+## 2013-06-07
+
+## @demartin
+
+### Precisazioni su licenze software libero
+
+- @FabioVallone: GPL o GNU GPL --> General Public License o anche GNU
+
+- @StefanoFranz20: "General public licence" tipo di licenza finalizzata
+alla condivisione delle modifiche sul codice dei software
+- @Ale_Cannone: General public license: 4 libertà del software libero
+più il copyleft
+
+- @93Levante: Il quarto principio, su cui si basa il software libero,
+diventa un OBBLIGO per il bene della comunità
+
+- @Ale_Cannone: Copyleft --> obbligo di rendere disponibile il codice
+sorgente modificato se diffondo il sorgente modificato
+
+- @SoFranchy: Stallman: una licenza, condizione di pubblicità della
+modifica (se non per uso privato). CC 6 licenze tra cui scegliere
+
+- @FabioVallone: Grazie alla licenza GNU/GPL, si sono creati centinaia
+e centinai di progetti di software libero
+
+- @Carrattrezzi: Non solo le grandi aziende possono produrre SO, tante
+persone, lavorando insieme, hanno sviluppato linux
+
+- @MartinoMensio: OpenSource: diverso da software libero
+https://t.co/4THvb0FNXV
+
+- @SabryKarate: opersource, codice sorgente aperto. Take a look on
+http://t.co/b9VTjMD0oz
+
+- @Clerish: Il termine "Open source" fu coniato per distaccarsi dalle
+stranezze di Stallman e rendere più moderato "Software libero"
+
+- @MartinoMensio: Free BSD non impone il copyleft
+
+- @MartinoMensio: Licenze BSD http://t.co/d2Mhb2BdfW
+
+- @LolloCler: differenza open source-software libero puramente di
+marketing e atteggiamento
+
+- @PieMarzio: Open source: codice accessibile ma senza le 4 libertà
+del software libero.
+
+- @SabryKarate: software libero: ha le 4 libertà opensource permette
+di accedere al codice sorgente, ma non necessariamente modificabile
+
+- @paolopopolizio: differenza tra open source e software libero:
+rispettivamente accesso libero al codice e rispetto delle 4 libertà
+
+- @Rexsimo893: Open source -> operazione di marketing che rimodula
+il significato di software libero, che invece ha una def. più precisa
+
+- @PieMarzio: "Commons": gruppo di individui che rispettano in generale
+delle norme (gourodiche, sociali)
+
+
+### Autoregolamentazione sociale: Wikipedia, i Commons 
+
+- @DavidePalermo2: La pagina di Wikipedia su Wikipedia
+http://t.co/oh5J4TT2nF ;-)
+
+- @LolloCler: su wikipedia gruppo volontario di individui collabora
+rispettando norme sociali imposte dai wikipediani
+
+- @Ale_Cannone:  nè privato (mercato) nè lo stato --> anarchia,
+dove ognuno si può autorganizzare --> Commons
+
+- @SabryKarate: "Commons" non dipendono da privati o dallo stato. Spazio
+auto-organizzato, regole definite (non leggi imposte!).
+
+- @Antonio_Langiu: Il concetto di Commons é legato all' auto
+organizzazione..
+
+- @PieMarzio: "Commons" strettamente legato al concetto di
+auto-organizzazione
+
+- @EmaParrinello: il concetto di "commons" è legato al concetto di
+auto-organizzazione
+
+- @Carrattrezzi: Commons autoregolamentati con diversi gradi di anarchismo
+
+- @ripa_pepperipa: “Commons”: Spazi dove ci si può auto-organizzare
+(non c’è legge di marcato-->Anarchia) né privato(mercato) né Stato
+
+- @SabryKarate: Elinor Ostrom, prima donna a vincere il Premio Nobel
+per l'Economia (nel 2009)
+
+- @FabioVallone: Elinor Ostrom (premio Nobel Economia 2009) ha studiato
+casi di commons fisici ed il loro funzionamento
+
+- @ripa_pepperipa: Elinor Ostrom --> http://t.co/VavtbZItvG
+
+- @Carrattrezzi: I commons non sono solo quelli degli anni '70, ci sono
+casi molto più antichi e che hanno invece funzionato.
+
+- @LolloCler: la visione fallimentare dei commons é di Hardin "the
+tragedy of the commons"
+
+- @SabryKarate: Elinor Ostrom ha dimostrato che i Commons non sono
+necessariamente destinati a fallire, possono funzionare efficientemente
+
+- @MartinoMensio: La tragedia dei commons: http://t.co/Neku7yjK7L
+
+- @Ale_Cannone: Elinor Ostrom ha dimostrato che in alcuni casi il commons
+è più efficiente di altre strade
+
+- @SabryKarate: Il sogno delle biblioteche: avere tutti i libri. Tuttavia
+è molto costoso e difficile da realizzare. Ma nel digitale...
+
+- @Ale_Cannone: Sogno di una biblioteca universale accedibile a tutti
+è possibile tramite il digitale con un costo relativamente basso
+
+- @SabryKarate: Problema di incentivi economici: vendita di libro fisico
+permette di sostenere lo scrittore. La distribuzione gratuita no.
+
+- @Ale_Cannone: Libri accessibili a tutti: mancano gli incentivi per
+poter organizzare tutto in digitale (questioni di interesse economico)
+
+- @SabryKarate: Del guadagno ricavato dalle copie fisiche vendute,
+allo scrittore vanno tra il 6% fino ad un massimo del 12%
+
+- @SoFranchy: Rendere disponibile la conoscenza a tutti allo stesso
+modo. Come incentivare gli autori? Idee da P. Aigrain e V. Grassmuck
+
+- @ripa_pepperipa: Philippe Aigrain e Volker Grassmuck hanno provato a
+disaccoppiare la visione del tantigibile e intangibile
+
+### La Pirateria
+
+- @ripa_pepperipa: la Pirateria --> http://t.co/AWB5A6yIkD
+
+- @DavidePalermo2: Pirati e Pirateria dall'antichità ad oggi, con
+diverse accezioni
+
+- @AstoriPietro: I corsari, espediente della corona inglese per boicottare
+la flotta spagnola
+
+- @SabryKarate: pirateria, termine molto utilizzato già a partire da
+Gutenberg. N.B. si parla di pirati già prima del Seicento.
+
+- @MartinoMensio: Pirateria nella cultura: nasce nel 600 con la copia
+illegale di libri
+
+- @SimoneBleynat: La Regina Elisabetta I reinventa i pirati, ma dà loro
+una patente che legittima il loro operato e li chiama corsari
+
+- @Carrattrezzi: I pirati nel periodo della diffusione della stampa
+erano gli editori che stampavano clandestinamente senza autorizzazione
+
+- @venadavide: Recentemente il termine "pirata" viene attribuito
+all'utente
+
+- @DavidePalermo2: Il computer è una "fabbrica" che permette a tutti
+di diventare un Pirata
+
+- @AstoriPietro: Pc, permette a tutti di essere "pirata"
+
+- @SabryKarate: Secondo alcuni: La copia digitale personale non
+commerciale dovrebbe essere legale.Non permessa però la vendita.
+
+- @MartinoMensio: La pirateria su internet non è furto, ma danneggia
+economicamente i produttori
+
+- @Ale_Cannone:  pirati moderni ---> mirano al "furto" di quello che
+è la copia digitale
+
+- @SabryKarate: Condivisione non a scopo di lucro.
+
+
+### Logical fallacies e Integrity
+
+- @DavidePalermo2: serve ad avere un'esperienza digitale Ci ricolleghiamo
+alla netiquette
+
+- @FabioVallone: Oggi espanderemo il concetto di Netiquette
+
+- @EmaParrinello: Internet facilita la possibilità di riportare
+riferimenti attendibili, cose che era molto più difficile prima di
+internet
+
+- @SoFranchy: Oggi si parla di Netiquette --> diventare migliori
+cittadini (digitali): "Cosa dici?", "integrità", "logical fallacies"
+
+- @_FedericoConte: "Cosa dici?" : quando ci si rivolge online è
+importante chiarire la natura di ciò che si scrive
+
+- @Carrattrezzi: La testimonianza non è la verità, è una percezione,
+c'è quindi una differenza
+
+- @Clerish: Bisogna sempre chiarire se quello che si dice è:
+1)Un'opinione 2)Una testimonianza 3)Un fatto
+
+- @DavidePalermo2: Parliamo delle informazioni su wikipedia
+
+- @SoFranchy: "Cosa dici?": specifica se è una tua opinione, una
+testimonianza, un riferimento o una citazione: dimostrane la veridicità.
+
+- @Carrattrezzi: Ciò che citiamo come fonte, è attendibile?
+
+- @Clerish: Crap detection: capire l'attendibilità di un'informazione
+online
+
+- @SabryKarate: Per aver maggiore sicurezza riguardo ad un fatto, è
+bene osservare le info di una fonte attendibile.
+
+- @LorenzoCutelle: Su wikipedia (e non solo) è fondamentale citare
+fonti affidabili.
+
+- @Ale_Cannone:  se si riferisce una informazione bisogna avere dei
+riferimenti e fonti attendibili
+
+- @venadavide: E' necessario valutare la validità delle fonti dalle
+quali prendiamo le informazioni
+
+- @SimoneBleynat: NB: verificare SEMPRE l'affidabilità delle fonti di
+qualsiasi informazione
+
+- @FabioVallone: Su internet bisogna cercare di essere chiari il più
+possibile per cercare di aumentare la nostra credibilità
+
+- @SabryKarate: wikipedia: bene comune, è fondamentale che i dati siano
+verificati. La conoscenza è un bene Non Escludibile e Non Rivale!
+
+- @Antonio_Langiu: Si parla di Michael C.Jensen - professore alla Harvard
+Business School
+
+- @FabioVallone: Integrità -> concetto morale
+
+- @Carrattrezzi: Cos'è l'integrità?
+
+- @FabioVallone: Integrità = rispetto della parola data
+
+- @Antonio_Langiu: Integrità: affidabilità e coerenza, come dice Jensen:
+Rispetto della parola data..
+
+- @BoggioMattia: Integrità : rispetto parola data.
+
+- @paolopopolizio: Michael C. Jensen ha promosso un sito che pubblica
+articoli scientifici accessibili in modo gratuiito
+
+- @LorenzoCutelle: La definizione di "integrità" di Michael C. Jensen
+è: mantenere la parola data.
+
+
+
+
+- @Carrattrezzi:L'integrità presuppone
+riflessione prima di parlare, e produce fiducia
+
+- @FabioVallone: Integrità: C'è una richiesta a monte di qualcuno,
+e una nostra considerazione del lavoro da svolgere.
+
+- @Carrattrezzi: Per prendere un impegno dobbiamo sapere il tempo che
+impieghiamo per farlo e il tempo che abbiamo
+
+- @_FedericoConte: Bisogna fare attenzione a ciò che implica mantenere
+una parola data, alle sue conseguenze
+
+- @SabryKarate: Bisogna rendersi conto delle proprie capacità per poter
+mantenere la parola data: invece tendiamo spesso a sovrastimare!
+
+- @Clerish: Prima di dare la propria parola ci vuole un'analisi delle
+proprie capacità e risorse di tempo
+
+- @DavidePalermo2: "Guardando l'agenda tendiamo sempre a sovrastimare
+il tempo a nostra disposizione per fare le cose che dobbiamo fare"
+
+- @SoFranchy: Integrità: rispettare la parola data, concetto non
+ovvio. Dare propria parola necessita lavoro a monte e conoscenza di sè.
+
+- @bassosimone: Oh, dopo che avete moltiplicato per due, moltiplicate
+ancora per due consiglio [esperienza personale]
+
+- @EmaParrinello: bisogna imparare a conoscersi bene per poter accettare
+una richiesta e mantenere la parola data
+
+- @SabryKarate: Attenzione a calcolare bene i tempi, consiglio di
+@demartin: lasciate un piccolo margine di tempo in più per sicurezza.
+
+- @Ale_Cannone:  integrità richiede alta conoscenza di se stessi e
+anche prudenza in modo da rispettare la parola data
+
+- @FabioVallone: Integrità può anche voler dire una grande conoscenza
+di noi stessi.Solo con esperienza si impara a capire cosa si può fare
+
+- @fabioricca93: integrità significa mantenere la parola data ,quindi comporta un'attenta
+analisi di se stessi basata su prudenza e coscienza di se
+
+- @SoFranchy: Se c'è imprevisto: avvisare immediatamente, proporre
+nuovi termini, chiedere se si può attenuare il disagio in qualche modo
+
+- @Carrattrezzi: Integrità accresce la reputazione
+
+- @BoggioMattia: Reputazione ha un grandissimo valore professionale
+oltre che personale.
+
+- @EmaParrinello: il continuo mantenimento delle "promesse" accresce la
+reputazione dell'individuo in maniera positiva
+
+- @Ale_Cannone:  nel caso di un imprevisto bisogna avvertire colui che
+ci aveva chiesto qualcosa e cercare di attenuare il disagio causato
+
+- @SabryKarate: La reputazione ha una grande importanza a livello sociale
+e lavorativo. Ci si può affidare a chi ha una buona reputazione.
+
+- @SabryKarate: In caso di un'emergenza: -Informare
+tempestivamente. -Scusarsi. -Stabilire nuova data. -Cosa si può fare
+per rimediare?
+
+- @StefanoFranz20: In sostanza non cercare di nascondere il problema ma
+prenderne atto e cercare una soluzione
+
+- @Ale_Cannone:  integrità ---> persona attendibile, efficiente
+e coerente
+
+- @bassosimone: "L-worlds - the curious preference for low quality and
+its norms" by D. Gambetta e G.Origgi << [pdf] http://t.co/11nFGzbKgJ
+
+- @SabryKarate: Perché in Italia predomina l'idea: ti offro poco,
+fai in fretta, non mi interessa il risultato ma basta che sia fatto?
+
+- @Clerish: In Italia sono comuni le richieste impossibili entro tempi
+brevi, che portano a "bozzacce"
+
+- @FabioVallone: Le aziende dove domina l'integrità, sono 2 volte più
+efficienti delle altre
+
+- @FabioVallone: Nella valutazione della richiesta, l'autoinganno è un
+rischio pericoloso
+
+- @DavidePalermo2: Thou shalt not commit logical fallacies
+http://t.co/6C5QaFqeTI
+
+- @Carrattrezzi: 1) Ad hominem attack 2) Spaventapasseri 3) Anedottica 4)
+China pericolosa 5) Bianco e nero (There Is No Alternative)
+- @Carrattrezzi: 6) False cause
+
+- @Clerish: La peggiore fallacia logica è "ad hominem attack": attaccare
+l'opponente invece della sua tesi
+
+- @SabryKarate:Strawman (Spaventapasseri) - deformo l'argomentazione dell'opponente
+
+ @Ale_Cannone:  spaventapasseri: presentare la tesi di qualcuno
+deformandola consciamente (attacco vigliacco)
+
+- @Clerish: La fallacia logica "anedottica" si basa sul generalizzare
+un singolo fatto come se valesse per tutti
+
+- @Rexsimo893: Anedottica: prendere singolo fatto e generalizzarlo anche
+se non rappresenta la verità
+
+- @Clerish: Altra fallacia logica è quella della "slippery slope"
+(china pericolosa), che esagera i rischi della tesi da attaccare
+
+- @bassosimone: il problema dello slipper slope sta appunto nell'
+"inevitabilmente"
+
+- @_FedericoConte: Slipper Slope è un "effetto a valanga"
+
+- @FabioVallone: In molti casi si cerca di semplificare al massimo le
+opzioni: una negativa e una positiva
+
+- @SabryKarate: 5) Black & White (bianco e nero) - si presentano
+solo 2 opzioni, una negativa ed una positiva -> la scelta e' indotta
+
+- @Clerish: Infine, la fallacia logica "Bianco o Nero" esclude l'esistenza
+di sfumature tra la propria tesi e quella rivale
+
+- @paolopopolizio: "TINA" : There Is No Alternative, atto di prepotenza
+e arroganza
+
+- @Ale_Cannone:  bianco o nero: le opzioni sono solamente due di cui
+una è sicuramente negativa per far apparire l'altra migliore
+
+- @Clerish: La fallacia logica "False cause" implica una causalità
+infondata (x è la causa di y)
+
+- @bassosimone: - correlation does not imply causation |
+http://t.co/UGu9l1uZqb
+
+- @Ale_Cannone:  false cause: due fenomeni di cui uno è la causa
+dell'altro ma ciò è infondato
+
+- @SoFranchy: Logical fallacies False cause: presentare (senza prove)
+la casualità di un fenomeno. Correlazione è diverso da causazione.
+
+
+## @bassosimone
+
+### Approfondimenti: bitly, Crap detection e Tor
+
+- @DavidePalermo2: Crap detector - Il sensore di boiate:
+http://t.co/rbchnp1GPl
+
+- @SabryKarate: "In viaggio con Narsete: da bit.ly a Tor, passando per
+la crap detection"
+
+- @SabryKarate: Robustezza bizantina: il tutto funziona anche se c'è
+un guasto!
+
+- @Ale_Cannone:  robustezza bizantina: i generali non possono comunicare
+tra loro e alcuni sono traditori ma l'attacco è vincente
+
+- @Carrattrezzi: Come stabilire l'affidabilità di persone e siti
+su internet
+
+- @Ale_Cannone:  robustezza bizantina applicata a internet
+
+- @ripa_pepperipa: come faccio a valutare l'affidabilità dei link? mi
+fido della persona?
+
+- @FabioVallone: automatismo bit.ly: PC->DNS (IP di bit.ly)
+PC->bit.ly(link lungo) PC->sito che mi interessa
+
+- @Clerish: Basta aggiungere un + alla fine di un URL bit.ly per vedere
+dove vi porterà.
+
+- @SoFranchy: URL bit.ly con l'aggiunta di "+" per scoprire a cosa porta
+prima ancora di andarci.
+
+- @CaracciFabio: Con bit.ly tre passaggi in più per essere reindirizzati
+alla pagina cercata.
+
+- @Clerish: Con il tool per command line "curl" il completo processo di
+bit.ly è visualizzato
+
+- @Carrattrezzi: curl è un buon modo per vedere tutto ciò che succede
+ai nostri URL
+
+- @FabioVallone: bit.ly utilizza un processo di Http Redirection
+
+- @Ale_Cannone:  http redirection: vai in un indirizzo per essere
+re-indirizzato in un altro sito (moved)
+
+- @SoFranchy:"curl" da riga di comando
+che funziona non solo con bit.ly
+
+- @SabryKarate: Uso di URL corti PROS: - per email (però descrivendo
+origine) - click stats CONS: - non è chiaro dove ci porta!
+
+- @Clerish: Il rasoio di Occam: http://t.co/6N7FD7ZXS1
+
+- @Ale_Cannone:  bit.ly utile nelle mail ma attenti alla robustezza,
+privacy, sicurezza e okkam
+
+- @SabryKarate: Il DNS, bitly e simili sono utili, tuttavia può essere
+un problema se finiscono down.
+
+- @SabryKarate: La Security è l'aspetto più critico di bitly!
+
+- @SabryKarate: Cookie, pezzetti di informazione che vengono memorizzati
+e che possono essere rubati...
+
+- @SabryKarate: <script> alert(document.cookie);</script>
+
+- @Carrattrezzi: Phishing (Phracking and fishing) getti delle esche per
+far abboccare dumb users
+
+- @Ale_Cannone:  i passi del phishing: 1. Manipolazione dei link 2. Email
+credibile 3. Sito credibile
+
+- @Ale_Cannone:  manipolazione dei link può essere attuata attraverso
+bit.ly
+
+- @SabryKarate: Si può ingannare un user usando: mail credibile,
+manipolando il link (non troppo lungo) e sfruttando un sito credibile.
+
+- @Ale_Cannone:  un esempio di manip dei link riguarda il fatto che
+alcune URL sono insolitamente lunghe e finiscono con domini "strani"
+
+- @SoFranchy: E' possibile "sgamare" un phishing se vengono richiesti
+dati personali che l'ente dovrebbe già avere
+
+- @SabryKarate: Per difendere bisogna coprire tutto, senza lasciare
+talloni di Achille. Per attaccare basta una piccola falla nel sistema.
+
+- @SoFranchy: Miglioramento della sicurezza si ha tramite il Two Factor
+Authentication. I.E. sms oltre a user e pw.
+
+- @Gare_1993: Crap detection time
+
+- @SoFranchy: Che info dare al lettore crap detector: nome dell’autore
+cosa ha fatto in passato e cosa dicono altri di lui: reputazione
+
+- @SabryKarate: Su Google si possono facilmente trovare dati più precisi
+che ci mostrino il contesto culturale dell'autore di un blog post.
+
+- @Ale_Cannone:  whoise: un tool che aiuta a capire di chi è un certo
+dominio
+
+- @Ale_Cannone:  sempre accertarsi delle fonti e non fidarsi sempre
+ciecamente della persona
+
+- @SabryKarate: Tor: Routing a cipolla http://t.co/ydTK6HjLp2
+
+- @Ale_Cannone:  Tor: i pacchetti vengono cifrati e diventa difficile
+capire chi è il mittente e chi il destinatario
+
+- @Ale_Cannone:  il terzo livello di Tor è chiamato exit node e conosce
+il destinatario il primo conosce invece il mittente
 
 ## 2013-06-05
 
@@ -817,8 +1350,442 @@ ma danneggia economicamente i produttori RivoluzDigitale
 - @SabryKarate: Thanks to @demartin for this interesting
 lesson! RivoluzDigitale
 
+## 2013-05-31
+
+### Prof. Meo
+
+#### Software libero
+
+- @demartin presenta il Prof. Angelo Raffaele Meo (http://t.co/xfCf0yVnAG) che ci parlerà di software libero e di Open Source.
+
+- Software libero e opensource di A. Meo File PDF http://t.co/ROn21rK02N
+
+- Il Prof. Meo ha contribuito all’introduzione dell’Informatica in Italia.
+
+- La storia del software libero affonda le sue radici nella storia della cultura Hacker. Un hacker è colui che accede ai sistemi informativi allo scopo di conoscere e non di rubare informazioni o fare danni.
+
+- Si parla di comunicazione tra hacker. Suit= ”abito da lavoro generalmente scuro e scomodo”; SNAFU= “Va tutto bene” per non dire ai capi, distanti dalla realtà, che “tutto va a puttane” (http://t.co/iqRZaBehq5)
+
+- Prof. Meo parla di Richard Stallman http://t.co/5HTesSKvvH, fondatore della Free Software Foundation e principale esponente della parrocchia, dice Meo, del software libero dal 1985: “Free software è una questione di libertà e non di prezzo” sostiene Stallman.
+
+- Xerox non vuole dare a Stallman la possibilità di ritoccare il software della stampante. Si licenzia dal MIT e un nuovo sistema operativo: GNU = “GNU is Not Unix”. 
+
+- Si parla di tipi di licenze software. Si va da software nel pubblico dominio a software proprietari. Vie di mezzo sono il copyleft e il copyright.
+
+- Nel 1991 Linus Torvalds, studente di Helsinki, crea GNU Linux, come piace chiamarlo a Stallman, sistema 
+operativo completamente libero che, ancora oggi, molti contribuiscono a migliorare. 
+
+- Il Prof. Meo confida agli studenti di rivoluzione digitale dettagli della vita di Stallman, della sua eccentricità, delle sue “fissazioni”.
+
+- Internet e il SW libero sono uno un capitolo dell’altro
+
+- Meo fa un parallelismo tra Internet e la pesca miracolosa del Vangelo di Giovanni (http://t.co/OfFjD4BjVO). Internet realizza un miracolo socio-economico perché funziona grazie alla collaborazione di più persone ed alimenta la diffusione e la crescita della conoscenza. (Foto http://t.co/WOLQyMMutq)
+
+- Meo: “Se il DNA è la più grande scoperta dell’uomo, Internet è la sua più grande invenzione”. Internet realizza la diffusione della conoscenza in modo libero (liberi devono essere la partecipazione, le idee, il codice), regola principale della IETF (Internet Engineering Task Force) http://t.co/SXHb7YKsbP http://t.co/0xGvp5cWHJ.
+
+- Internet è basato su documenti scientifici chiamati RFC (Request For Comments). Messaggio “scriveteli nel cesso, ma scriveteli precisi e chiari”.
+
+- Perchè costruire tanti bit e poi pubblicarli gratis? Per far crescere la conoscenza, questa deve essere libera. Bisogna pensare alla parola libero come “free spech” non come “free beer”.
+
+- Qualche tempo fa Google decise di aprire un capitolo dedicato al software libero e si accorse di dover creare 100 milioni di pagine.
+
+- Source Forge: il primo sito in ambito di distribuzione di software libero. 2,7 milioni di sviluppatori si impegnano a creare nuovi software liberi ed al giorno vengono effettuati 2 milioni di download degli stessi.
+
+- Sicuramente si andrà a dare un'occhiata al corso di software libero del professore A. Meo. Si possono trovare le slides "Software libero" by A. Meo usate nell'anno precedente sul sito http://t.co/rru0WO1BcO
+
+- Software libero italiano: nel 2002 Lucio Stanca, ministro del governo Berlusconi,  formo’ una commissione, con a capo Meo, per indagare sui vantaggi del software libero. 
+
+- Microsoft disse che il costo totale di gestione del software (TCO - Total Cost of Ownership, http://t.co/ukTPuVV6Wg) era minore per il software proprietario rispetto al software libero. Si rispose dicendo che, fosse anche stato vero, i soldi delle licenze andavano all’estero mentre quelli di manutenzione restavano in Italia. 
+
+- Microsoft disse che rendendo disponibili i sorgenti avrebbe comportato meno sicurezza. In realta', la STO (Security Through Obscurity) e' una tecnica per garantire la sicurezza abbastanza deprecata. Nella comnunita' crittografica, infatti, l'idea di base e' quella di avere algoritmi pubblici e codice pubblico, e sicurezza che si realizza tenendo segrete le chiavi. L'idea di base e' che un algoritmo e' tanto piu' robusto quanti piu' esperti crittoanalisti lo hanno rivisto e hanno provato ad attaccarlo; cosa che non e' possibile fare se il sorgente e' chiuso.
+
+- Meo cita il principio di Kerckhoffs per un parallelismo con STO: tentare di nascondere le cose agli hacker è come tentare di farlo con le donne. http://t.co/fdnHzXAuj7 http://t.co/xtCewRmO3g
+
+- Era emerso, intanto, che dentro Windows NT c’erano due chiavi crittografiche: MS-key e NSA-key. Si temeva ci fosse una backdoor.
+
+- Altro punto era organizzare progetti per la scuola e per la ricerca, riguardanti il software libero.
+
+- Stanca indice una direttiva - dalla quale, in seguito , scaturì una legge molto più addolcita - che prevedeva l’uso del software libero nella pubblica amministrazione ed il salvataggio dei documenti e dei dati in più formati, dei quali almeno uno aperto.
+
+- Considerazioni sull’Italia: citando Wilde, “We live in a society who knows the price of everything and the value of nothing”. “Il nostro è un paese di leggi severissime temperate dalla loro inosservanza” Prof. Meo
+
+- Nella Pubblica Amministrazione, nonostante si pagassero 3 miliardi di dollari (3G$) per le licenze dei software proprietari,  vere e proprie gare comunitarie limitano l’uso del software libero: un esempio sono i vari siti chiusi rispetto al browser.
+
+- Sale al governo Prodi e Luigi Nicolais istituisce una nuova commissione, sempre presieduta dal Prof. Meo, ma il governo Prodi cade e “la maledizione di B. Tutankhamon”, cosi’ piace definirla a Meo, fa scomparire uomini e progetti dedicati alla ricerca per il software libero: il ministro Brunetta si rifiuta di ricevere la commissione istituita dal suo predecessore. http://t.co/9lDqTQXk50
+
+- Nell’estate del 2012 il Parlamento approva una legge secondo la quale di “default” la Pubblica Amministrazione deve scegliere il software libero.
+
+- Ultimo atto del governo Monti, legato all’Agenda Italia Digitale, è ripristinare la STO, rivedere il TCO e stabilire l’uso di formati aperti, nonché degli standard in grado di garantire l’interoperabilità. 
+
+- Ultima pillola di Meo sul software libero: “I deputati che vanno a donnine sono meno dannosi della scelta di un software proprietario”: i 3 miliardi di dollari che si risparmierebbero sui costi delle licenze per i software proprietari sono 10 volte di più di quanto si risparmierebbe con il taglio dei parlamentari. Purtroppo bisognerebbe insegnare alle segretarie, ad esempio, la nuova posizione della X per chiudere le finestre.
+
+#### Hardware libero
+
+- Il Prof. Meo introduce il concetto di Hardware libero (Wikipedia 
+http://t.co/tNXTsIqeO6) e parla delle varie licenze per l’hardware: 
+Free Hardware Design, Open Source Hardware, Open Hardware. 
+http://t.co/Nk8Tur4pRU
+
+- Free Hardware Design: può essere liberamente copiato, distribuito, 
+modificato e materializzato su silicio.
+
+- Open Source Hardware: tutta l’informazione di progetto è disponibile 
+ma esistono restrizioni.
+
+- Open Hardware: la documentazione deve consentire la programmazione 
+del device, ma non sono presenti dettagli su firmware e hardware.
+
+- Il concetto di hardware libero si lega alla vita delle api: “queste 
+hanno un piccolo corpo ma una grande anima”, cosa che permette 
+loro di contribuire, nel loro piccolo, a qualcosa di grande. Allo stesso 
+modo gli sviluppatori possono mettersi  insieme per creare qualcosa 
+di migliore.
+
+- Si parla di Arduino. “Esempio clamoroso di open-hardware” lo definisce 
+Meo. http://t.co/P2Y9vkNul3
+
+- Meo accenna al concetto di Terza rivoluzione industriale, citando 
+l’Economist, durante la quale diventa sempre più importante il disegno 
+rispetto all’applicazione. Con i nuovi fabbricatori universali, come le 
+stampanti 3D, "sono più importanti i bit che non gli atomi", dice il Prof.
+
+#### Domande
+
+- Definizione stringata di software libero: Software con codice sorgente 
+pubblico distribuibile, replicabile senza termini di tempo, e utilizzabile 
+in qualunque ambito e per qualunque scopo. http://t.co/fFeYIHZ0Rm
+
+- Perché conviene il software libero: la cultura open è utile al fine di 
+abbassare i costi (mediamente di 8 volte) soprattutto per i paesi meno 
+ricchi.
+
+- Quanto ha influito l’essere open per la diffusione di Arduino: Arduino 
+deve il suo successo all'essere Open. Una delle conseguenze è ancora la 
+riduzione drastica dei costi.
+- Ancora una volta si presenta il concetto di tecnologia non deterministica 
+in relazione al perché il software libero, avendo tanti vantaggi, non si sia 
+ancora affermato: nella tecnologia non sempre ciò che è meglio viene più 
+utilizzato, ci sono molte variabili che entrano in gioco.
 
 
+### @demartin
+
+- @Carrattrezzi: Le 4 proprietà del software libero (@demartin ) : 1)
+La libertà di eseguire il programma per qualsiasi motivo
+
+- @DavidePalermo2: Definizione di software libero sul sito della Free
+Software Foundation http://t.co/sw0yB3Ldje http://t.co/YxBp9DyoIf
+
+- @Carrattrezzi: 2)Libertà di modificare il software e studiarlo (c'è
+bisogno del codice sorgente)
+
+- @Carrattrezzi: 3) libertà di ridistribuire copie così che si possa
+aiutare il proprio vicino 4)Distribuire copie con tue modifiche
+
+- @bassosimone: la licenza GNU GPL aggiunge il copyleft alla definizione
+di software libero
+
+### @CBlengio
+
+- @Carrattrezzi: @CBlengio risponde alle nostre domande di ieri+2 arrivate
+su twitter
+
+- @DavidePalermo2: diffamazione Non si può dire ladro al ladro
+
+- @bassosimone: .@CBlengio ingiuria e' diretta a una persona singola
+(aggravante se ci sono piu' persone)
+
+- @venadavide: Diffamazione: non si può dire ladro al ladro. @CBlengio
+
+- @enricoiucci: la diffamazione (mal parlare) é un offesa su qualcuno
+non presenta detta ad almeno 2 persone
+
+- @Ale_Cannone: differenze: ingiuria: se è presente la persona a cui
+è rivolta diffamazione: si offende la reputazione altrui
+
+- @DavidePalermo2: diffamazione slide by @CBlengio http://t.co/JYcZHTKDM6
+
+- @bassosimone: .@CBlengio se "@bassosimone e' un ladro" e @bassosimone
+non c'e' e' diffamazione (anche fosse @bassosimone un ladro)
+
+- @paolopopolizio: 1) libertà di studiare il programma; 2) libertà di
+ridistribuire copie; 3)libertà di distribuire la versione modificata
+
+- @enricoiucci: la pena aumenta se l'offesa é relativi a falsi fatti
+precisi e se divulgata tramite mezzi pubblicitari (quali internet)
+
+- @Carrattrezzi: Se la persona in questione è presente è ingiuria,
+Se non lo è e ci sono più di due testimoni è diffamazione.
+
+- @bassosimone: tanto per ingiuria quanto diffamazione la verita'
+o notorieta' del fatto non conta
+
+- @bassosimone: by the way, in Italia la stampa e' solo roba meccanica,
+quindi i blog non sono stampa (no aggravante x diffamazione)
+
+- @Carrattrezzi: Indipendentemente dalla veridicità della
+cosa. Aggravante: mezzo stampa o con grande portata.
+
+- @Carrattrezzi: Gli ospiti continuano a prendersela con @bassosimone
+
+- @bassosimone: non e' facile capire perche' la diffamazione dipende
+molto dal contesto - parametro: Art. 21 Cost su liberta' di espr.
+
+- @ripa_pepperipa: si parla di diritti di cronica, Critica e Satira. Con
+@CBlengio
+
+- @Carrattrezzi: Diritti di cronaca, critica e satira
+
+- @bassosimone: da Art. 21 Cost e carta dei diritti =&gt; diritto di
+cronaca, critica, satira
+
+- @DavidePalermo2: Diritto di cronaca, critica, satira sono uti cives
+(dei cittadini)
+
+- @bassosimone: puoi dare del ladro al ladro, e' un reato scriminato
+dal diritto di cronaca, satira, critica
+
+- @Rexsimo893: Diritti di: cronaca, critica, satira -&gt; diritti che
+ci dà la Costituzione
+
+- @paolopopolizio: Diritto di critica, di cronaca e di satira sono
+diritti Uti Cives @CBlengio
+
+- @Rexsimo893: Io twittando esercito il diritto di cronaca perchè informo
+
+- @DavidePalermo2: Mi sento preso in causa... Discorso sulle immagini
+di @CBlengio
+
+- @venadavide: Non pubblicate foto degli ospiti...rischiate la denuncia :)
+
+- @paolopopolizio: noi che twittiamo non siamo molto diversi dai
+giornalisti che diffondono notizie
+
+- @ripa_pepperipa: @CBlengio "scherza" sui trattamenti illeciti di
+diffusione di immagini personali!
+
+- @bassosimone: foto dell'avv. @CBlengio non si possono twittare (dato
+personale) a meno che non vuoi criticare, o fare cronaca
+
+- @Ale_Cannone: diritto di cronaca, critica e satira sono diritti uti
+cives, di tutti i cittadini--&gt; siamo nella società dell'informazione
+
+- @DavidePalermo2: Volevo comunicare che la lezione di @cblengio era
+interessante per tutti :-) speriamononcisianodenunce :-)
+
+- @SimoneBleynat: Morale della storia: qui a siamo tutti denunciabili
+per un motivo o per l'altro
+
+- @bassosimone: su Facebook seconda possibilita' di difesa, se profilo
+chiuso: comunicazione a amici != diffusione
+
+- @Ale_Cannone: per Facebook è possibile pubblicare foto di altre
+persone senza consenso se il profilo non è aperto
+
+- @bassosimone: ad esempio, si discute se apertura ad amici degli amici
+di Facebook sia comunicazione o diffusione
+
+- @ripa_pepperipa: I diritti di critica, cronaca e satira hanno dei
+limiti....
+
+- @bassosimone: limiti di cronaca: il fatto deve essere vero, detto in
+modo continente, e utile alla collettivita'
+
+- @paolopopolizio: i limiti della satira sono: -i fatti devono essere
+veri -il modo in cui detto continente -la motivazione -utile a comunità
+
+- @ripa_pepperipa: DIRITTO DI CRONACA: fatto vero, comunicarlo in modo
+continente, utile alla comunità!
+
+- @bassosimone: satira e' sottratta dal perimetro della verita' ma rimane
+assoggettata alla continenza e all'utilita' per collettivita'
+
+- @ripa_pepperipa: quando faccio satira manifesto il diritto di critica,
+sottratto al parametro della verità
+
+- @Rexsimo893: Nella satira non devo dimostrare che una cosa è vera
+mentra se critico qualcuno lo devo fare
+
+- @bassosimone: MT @venadavide Satira [...] mediante paradosso e metafora
+esprime il giudizio ironico su un fatto
+
+- @SimoneBleynat: Si è parlato di @Nonciclopedia al corso di
+
+- @ripa_pepperipa: al blog è applicata la legge di YouTube ed inoltre
+permette la pubblicazione di interventi da parte di altri
+
+- @93Levante: Nella diffamazione non è sempre facile dire quando è
+lecito e quando no
+
+- @ripa_pepperipa: parliamo di Internet Sercice Provider --&gt;
+http://t.co/UGGcAEo6fi
+
+- @paolopopolizio: il prestatore del Blog non è tenuto a verificare
+cosa posta in un articoli un altro prestatore sul suo blog
+
+- @bassosimone: intermediari della comunicazione e dell'informazione:
+access, caching e hosting
+
+- @Rexsimo893: Internet Service Provider: 1.Access(Telecom,Skype)
+2.Caching(Google) 3.Hosting(Fb,Twitter,Youtube)
+
+- @bassosimone: access, caching e hosting provider non sono responsabili;
+content provider invece sono responsabili
+
+- @venadavide: Satira, manifestazione del diritto di critica che mediante
+paradosso e metafora esprime il giudizio ironico su un fatto
+
+- @Rexsimo893: Se sono Content Provider sono responsabile → se ho
+spazio per commenti divento Hosting Provider
+
+- @_FedericoConte: Internet Service Provider : Intermediari della
+comunicazione, Intermediari dell'informazione
+
+- @Carrattrezzi: Non siamo responsabili dei contenuti pubblicati da terzi
+(commenti) sui nostri blog
+
+- @paolopopolizio: se si apre un blog a terzi non si è responsabili di
+ciò che viene scritto da loro
+
+- @bassosimone: bilanciamento tra liberta' di espressione, responsabilita'
+e interesse a che info illegali siano celermente rimosse
+
+- @ripa_pepperipa: la Commissione Europea si pone una domanda: dobbiamo
+proteggere i contenuti che ospitano terzi o no?
+
+- @bassosimone: due condizioni, pero', (a) fornitori non siano a
+conoscenza e (b) agiscano tempestivamente
+
+- @bassosimone: Sintesi scherzosa: pirlate bay
+
+- @MartinoMensio: Il fornitore del servizio non è responsabile se: A)
+non è a conoscenza dell'attività illecita B) appena lo vede provvede
+
+- @Ale_Cannone: differenza tra chi fa contenuto e chi è fornitore di
+servizi ---&gt; i primi possono essere accusati
+
+- @Carrattrezzi: Come avrebbero potuto sapere i gestori di pirate bay
+che venivano pubblicati file (venivano xD) infrangenti il copyright?
+
+- @Ale_Cannone: caso degli Internet service provider: diventa responsabili
+se viene segnalato qualcosa che non viene subito controllata
+
+- @bassosimone: by the way, vi faccio notare il "badate, parlo per
+esperienza personale" - i.e. comunicare cosa pensi vs. cosa sai
+
+- @MartinoMensio: Il fornitore di servizi è costretto ad intervenire
+solo se gli viene comunicato da autorità competente
+
+- @Carrattrezzi: Notice and take down? Si, se me lo dice un giudice,
+stabilirlo indipendentemente è troppo difficile
+
+- @bassosimone: come fanno le Internet company a rispettare le leggi di
+204 paesi? Not so simple
+
+- @EricaAcire19: Se FB dagli USA viene a conoscenza di un post in italiano
+diffamatorio, cosa fa? @CBlengio
+
+- @SimoneBleynat: È molto meglio che i big di Internet non siano
+responsabili! Meglio star senza guardiani della libertà di espressione
+
+- @MartinoMensio: Licra vs Yahoo: http://t.co/gvQrY8CDOz!
+
+- @bassosimone: caso LICRA vs YAHOO relativo a vendita di cimeli
+neo-nazisti (2000)
+
+- @Ale_Cannone: Licra vs Yahoo: causa che ha fatto scuola
+
+- @EmaParrinello: se dessimo responsabilità agli internet provider
+creeremmo dei guardiani della libera espressione, che è negativo
+
+- @Ale_Cannone: Licra vs Yahoo risolta con IP mapping
+
+- @EmaParrinello: il problema della territorialità in internet è un
+problema grossissimo da risolvere
+
+- @Ale_Cannone: è solo impressione mia o riguardo internet spunteranno
+sempre nuove controversie e cause?
+
+- @Ale_Cannone: peer-to-pee:r nessun rapporto tra client e server ma
+tra i computer stessi
+
+- @paolopopolizio: nel Peer To Peer non ho un rapporto client e server,
+ma il mio pc diffonde informazioni in condivisione complessiva
+
+- @DavidePalermo2: @omerovitali parliamo di P2P e del tuo post :-)
+
+- @EmaParrinello: con il P2P è difficilissimo trovare chi viola il
+diritto d'autore
+
+- @ripa_pepperipa: su Peer to Peer gira molta "roba stra-lecita". Non
+si riesce a beccare però chi viola il diritto d'autore!
+
+- @DavidePalermo2: @omerovitali for You :-) http://t.co/U4xmn9hGx9
+
+- @bassosimone: sicuramente lo streaming non e' un reato, ma non lo e'
+neanche scaricare, lo e' uploadare pero' - cc: @omerovitali
+
+- @paolopopolizio: se scarico una musica in peer to peer o da un server
+non commetto reato, solo se lo condivido, anche per scopo personale
+
+- @DavidePalermo2: @CBlengio Il download non è
+illegale! http://t.co/Sva3JzwPWB http://t.co/fORyDT5epp
+
+- @EmaParrinello: Nel P2P chi commette il reato è solamente chi condivide
+per diffondere ma non chi fa il download per uso proprio
+
+- @bassosimone: se scarico commetto un reato solo se lo faccio per
+lucrare o per fini non personali
+
+- @bassosimone: @CBlengio ci parla del caso peppermint
+
+- @ripa_pepperipa: viene punito chi mette in condivisione. Chi scarica
+per fini non personali o per lucrare, solo in tale caso commette reato
+
+- @bassosimone: la tutela dei dati personali venne ritenuto un bene
+superiore rispetto al copyright nel caso peppermint
+
+- @Ale_Cannone: indirizzo IP --&gt; dato personale --&gt; privacy
+
+- @bassosimone: quando sottoscrivi contratto telco dai autorizzazione
+privacy anche a filtrare tuo traffico
+
+- @ripa_pepperipa: il traffico mobile può essere filtrato attraverso
+gli indirizzi IP
+
+- @venadavide: Le compagnie tlf si assicurano la possibilità di filtrare
+il traffico del cliente...
+
+- @Ale_Cannone: mi sbaglio o è casey del telefilm chuck quello nella
+slide?
+
+- @Carrattrezzi: Non c'è neanche bisogno dell'autorizzazione di un
+giudice per tracciarti con il gps. sembra di essere in thewire
+
+- @bassosimone: "accettereste voi ad avere delle case di vetro anche se
+non menate vostra moglie?" &lt;&lt; @CBlengio LOL
+
+- @Ale_Cannone: cadono piume in aula xD
+
+- @paolopopolizio: fine lezione rivoluz digitale, momento di risposta
+alle domande da parte di @CBlengio
+
+- @Ale_Cannone: aprire una fan page citando il marchio? richiede
+autorizzazione ma chiuderla va contro gli interessi del marchio stesso
+
+- @ripa_pepperipa: spazio a domande e commenti a con @CBlengio
+
+- @Ale_Cannone: caso nutella e fan day http://t.co/ty11xWyuzF
+
+- @Carrattrezzi: @CBlengio ha skippato la mia domanda sulla sospensione
+copyright
+
+- @Ale_Cannone: occhio alle 50enni mature lol divertimento a
+
+- @EmaParrinello: bellissima lezione! A mercoledì prossimo
+
+- @Carrattrezzi: Vi fidate della vostra cronologia del browser tanto da
+portarla in tribunale? ccleaner
 
 ## 2013-05-29
 
@@ -1472,8 +2439,8 @@ http://t.co/gr9qLSx1Mc
 - @DavidePalermo2: Di chi è un dato dominio? Ad esempio si può scoprire
 con siti come questo http://t.co/hwKyhFSkHu
 
-    - @LucaLiuzzi: @DavidePalermo2 "siti come questo". Cioè i siti degli
-    host provider del sito a cui fa riferimento l'url.
+- @LucaLiuzzi: @DavidePalermo2 "siti come questo". Cioè i siti degli
+host provider del sito a cui fa riferimento l'url.
 
 - @venadavide: Possibilità di risalire al proprietario di un certo IP
 
@@ -1965,7 +2932,7 @@ del digitale, diventa alla portata di chiunque
 che manipolano (copiano) bit
 
 - @SoFranchy: Con il digitale separazione tra contenuto e contenitore alla
-portata di chiunque. La copia è all'ordine del giorno #Rivoluzdigitale
+portata di chiunque. La copia è all'ordine del giorno 
 
 - @EmaParrinello:  l'avvento dei PC, internet e web porta
 alla separszione tra contenuto e contenitore alla portata di chiunque
@@ -2640,7 +3607,7 @@ l'80% dei domini di tutto il mondo. Il TLD .edu è per educazione.
 U.S.A. http://t.co/KE9sGlgBP9
 
 - @SoFranchy: TLD sono quelli nazionali (country code) come .it o
-.fr. Altri sono: .com, .edu, .org, .net #Rivoluzdigitale
+.fr. Altri sono: .com, .edu, .org, .net 
 
 - @LucaLiuzzi: ICANN - Internet Corporation for assigned names and
 numbers.
@@ -3199,6 +4166,753 @@ pagata ma limitata (iniziato in Germania alla fine dell'Ottocento)
 - @SabryKarate: Per lungo tempo gli scienziati stanno nella "torre
 d'avorio", compiono ricerche ma non diffondono i risultati. @MCPievatolo
 
+
+## 2013-05-15
+
+### @demartin
+
+- @FabioVallone: @bassosimone che utilizza windows??!?!? :-P
+
+- @Ale_Cannone: titolo descrittivo&lt;-------------------&gt;titolo
+troppo creativo....meglio restare in mezzo tra le due
+
+- @SabryKarate: Scrivere un titolo che sia originale e non troppo
+descrittivo ma al contempo permetta di capire l'argomento del post.
+
+- @Cine_Revolution: Comincia la lezione!!!  @m_caccialupi @BrayGabriele
+
+- @SabryKarate: Siam giunti nel mezzo del cammin del corso di
+
+- @SimoneBleynat: UBERFACEPALM
+
+- @Xfox1:  pagina importante se molti la citano
+
+- @Ale_Cannone: algoritmo di google: una pagina è importante in
+base a quante persone la citano
+
+- @Cine_Revolution: Nuovi argomenti? ? Diciamo la nostra:-) che
+corso ! ! @m_caccialupi @BrayGabriele http://t.co/lrfOwZlDSC
+
+- @FabioVallone: SEO (Search Engine Optimization) serve per ottimizzare
+il ranking delle proprie pagine nei motori di ricerca
+
+- @LucaLiuzzi: @demartin sarebbe interessante tracciare i comportamenti
+sbagliati dell'utente medio e analizzarli.
+
+- @Xfox1:  comunque a me ha colpito molto il fablab
+
+- @toni_marvelli:  finalmente un prof ascolta cio' che gli studenti
+vogliono sapere.
+
+- @DavidePalermo2: Bel momento di dialogo col prof @demartin a
+domande proposte commenti
+
+- @VadimCujba: Questo non è un corso di tecniche web!
+
+- @SabryKarate: Ogni blog sarà controllato fino al 15 di giugno,
+dopodiché ognuno potrà decidere se tenerlo in vita oppure abbandonarlo...
+
+- @SabryKarate: @VadimCujba  By the way, su Internet si possono
+trovare un sacco di risorse interessanti riguardo al linguaggio
+HTML :)
+
+- @FabioVallone: DNS (Domain Name System) serve per assegnare dei
+domini agli indirizzi IP
+
+- @Carrattrezzi: Riassunto di ciò di cui si è discusso nella penultima
+lezione: TCP/IP (possibile domanda di esame) e DNS
+
+- @DavidePalermo2: TCP/IP , DNS, Domini, Internet... Argomenti
+trattati ora a
+
+- @LucaLiuzzi: Chi decide cosa su internet?
+
+- @DavidePalermo2: Chi decide su internet? Chi ha potere su internet?
+
+- @VadimCujba: Chi è che ha potere su internet?
+
+- @Carrattrezzi: Regolamentazione di Internet: stesse regole del
+mondo "reale" ma chi decide sulle questioni "tecniche"? (DNS, IPv6
+ecc..)
+
+- @MesserPala: Chi decide cosa su internet?
+
+- @ripa_pepperipa: : Tutte le leggi presenti nel codice penale
+valgono anche per Internet---&gt;Aspetto Giuridico
+
+- @FabioVallone: Le decisioni su internet vengono prese da organismi
+specifici
+
+- @Rexsimo893: Internet ha una struttura di governance sofisticata,
+poco conosciuta e per questo, in alcuni casi, criticata
+
+- @FabioVallone: Internet è governata da una struttura di "Governance"
+distribuita in tutto il mondo.E' nata da chi ha inventato internet
+
+- @DavidePalermo2: La Governance di Internet esiste!
+
+- @EmaParrinello: Internet ha una struttura di governance molto
+complicata che i politici non riescono a comprendere.
+
+- @LucaNaldo4RD:  Internet, troppe decisioni da prendere dobbiamo
+strutturarci per gestirlo!
+
+- @FabioVallone: All'inizio gli indirizzi IP venivano dati a "mano".
+Ora ci sono infrastrutture preposte per fare ciò.
+
+- @LucaLiuzzi: Negli anni '80 la mole di decisioni tecniche diventa
+troppa.Si creano delle strutture decisionali per risolvere il
+problema
+
+- @FabioVallone: Gli enti preposti per governare internet non sono
+gestiti dallo stato
+
+- @ripa_pepperipa: : Chi governa internet non è lo Stato!
+
+- @DavidePalermo2:  È esistita un'età della pietra anche nella
+storia di Internet (riferimenti a fatti, cose, persone, eventi non
+sono voluti)
+
+- @Carrattrezzi: Con la crescita di internet le scelte sia tecniche
+che "politiche" (domini) sono affidate a NGO( http://t.co/dlT60R9EDB
+)
+
+- @SabryKarate: Gli organismi che gestiscono Internet non sono
+Ministeri, le scelte tecniche e politiche non sono controllate da
+un governo
+
+- @FabioVallone: Certi governi cercano di copiare da internet. Altri
+rifiutano nettamente tale infrastruttura
+
+- @LucaLiuzzi: A decidere quindi sono NGO. http://t.co/AxsgZj8FYb
+
+- @Antonio_Langiu: Internet non è governata da nessun governo e da
+nessuno stato..
+
+- @MorenoLaQuatra: Perché per parlare del cambiamento degli organismi
+di gestione internet si va a Dubai? Troppi interessi economici di
+mezzo
+
+- @93Levante: Internet: l'unico sistema di comunicazione che non è
+gestito da un ente governativo
+
+- @Xfox1:  dunque potremmo vedere internet come un ente a se stante!
+
+- @FabioVallone: Gli enti decidono come fare internet, mentre il
+governo può censurare alcune funzioni. Ad es Cina ha messo un grande
+filtro
+
+- @MesserPala: RT @DavidePalermo2:  È esistita un'età della pietra
+anche nella storia di Internet (riferimenti a fatti, cose, persone,
+eve…
+
+- @LucaNaldo4RD:  internet controllato dalle NGO e non dallo Stato!
+Alcuni governi vorrebbero imitare altri condannano.
+
+- @VadimCujba: In passato le comunicazioni erano gestite dai governi,
+lo sono anche ora!
+
+- @LucaNaldo4RD:  in Inghilterra le Accademie prendono il nome di
+Society .
+
+- @Antonio_Langiu: Internet in China: A giant cage | The Economist
+http://t.co/vWVgthVTDT
+
+- @LucaNaldo4RD:   Lunar Society perché si trovavano nelle notti
+di luna piena.
+
+- @SabryKarate: Internet Society: organizzazione no profit, attivata
+per obiettivi formativi, caritatevoli ed educativi.
+
+- @Carrattrezzi: Cina ed altri stati premono per un controllo
+statale. Come la Cina censura internet? Articolo dell'economist.
+
+- @FabioVallone: Internet Society: obiettivi formativi,
+caricatevoli,scientifici,facilitare l'evoluzione.Inoltre educare
+all'uso di internet
+
+- @SimoneBleynat: RT @FabioVallone: Internet Society: obiettivi
+formativi, caricatevoli,scientifici,facilitare l'evoluzione.Inoltre
+educare all'uso di intern…
+
+- @ripa_pepperipa: : Internet Society http://t.co/Q9D6PcKOkk
+
+- @SabryKarate: L'Internet Society, fondata nel 1992 in Virginia,
+si occupa di diffondere la cultura delle nuove tecnologie e di
+Internet.
+
+- @Antonio_Langiu: Discussione su Internet society  (wiki page)
+http://t.co/QEXv3UHoz4
+
+- @Tech_OnTheRoad: Il braccio di ferro tra Apple e Samsung - A
+gestire il monopolio degli smartphone sono sempre di più Apple e...
+http://t.co/HuK6dShYIC
+
+- @FabioVallone: Internet Society:No-profit Fondata 1992 da Vint
+Cerf, Bob Khan.Basata in Virginia.Ha 50000membri.Chapter
+Nazionali/tematici
+
+- @FabioVallone: ISOC --&gt; Internet Society
+
+- @Carrattrezzi: 1992, Internet Society (ISOC) fondata da Vint Cerf,
+Bob Knan, ecc... con 50.000 membri. Mission? http://t.co/Et8DYb2DWn
+
+- @SabryKarate: IETF: Internet Engineering Task Force Fondato nel
+1986 http://t.co/mDlzriIS7i
+
+- @Ale_Cannone: 1986 nasce la IETF (Internet Engineering Task Force)
+
+- @FabioVallone: Prima di ISOC, IETF (Internet Engineering Tak
+Force) 1986 http://t.co/B3Rn9VW86d adesso fa parte di ISOC
+
+- @CaracciFabio: Il governo cinese limita la democrazia limitata
+nel web
+
+- @SabryKarate: "The goal of the IETF is to make the Internet work
+better"
+
+- @FabioVallone: ISO (International Standardization Organazation)
+ITU (International Telecomunication Union) servono per standardizzare
+
+- @ripa_pepperipa: :  http://t.co/sWBeqRw0XQ ... IETF:organizzazione
+intergovernativa nata prima di ISOC ma adesso dipendente da questa
+
+- @Carrattrezzi: Già nel 1986 IETF (http://t.co/GnPpXcZwBG) prendeva
+decisioni sugli standard. Diversamente da ISO E ITU chiunque partecipa
+
+- @FabioVallone: Tutti possono prendere parte a ISO e ITU pagando
+una quota di partecipazione ma solo previo consenso dei membri
+
+- @MesserPala: Ad IETF vanno persone!
+
+- @Ale_Cannone: IETF: alle riunioni può partecipare chiunque (con
+un pagamento di una quota)
+
+- @FabioVallone: By the way,riunioni IETF tutti possono partecipare
+senza dover chiedere il permesso.Viene chiesto di pagare costi
+logistici
+
+- @LucaLiuzzi: Non c'è una procedura ufficiale decisionale nelle
+riunioni di IETF.
+
+- @Rexsimo893: IETF, ormai parte di Internet Society, opera decisioni
+tecniche sulla base di "running code" e "rough consensus"
+
+- @FabioVallone: IETF: "Running Code"(codice funzionante) e "Raf
+Consensus"(mailing list per discutere, senza una vera votazione)
+
+- @SabryKarate: "Running code, rough consensus"  Serve mostrare il
+codice funzionante Si discute tramite mailing list per avere il
+consenso
+
+- @Ale_Cannone:  IETF "running code, rough consensus"
+
+- @Ale_Cannone:  rough consensus: strumento per prendere decisioni
+utilizzando la mailing list
+
+- @Carrattrezzi: Le decisioni di IETF tramite "running code e rough
+consensus" cioè mostrando il codice e con il consenso della mailing
+list
+
+- @FabioVallone: Nel IETF non c'è una vera struttura gerarchica ma
+chi ha più esperienza riuscirà a deviare la soluzione dove vuole
+lui
+
+- @FabioVallone: Nel IETF si utilizza il "muggimtometro" ovvero la
+votazione avviene in modo qualitativo e non quantitativo
+
+- @LucaLiuzzi: @toni_marvelli se qualcuno possieda influenza ha
+automaticamente un potere.Quello di influenzare gli altri.  @demartin
+
+- @SimoneBleynat: Non riuscirò a togliermi dalla mente il MUGGITOMETRO
+per un po'
+
+- @Ale_Cannone:  rough consensus: procedura decisionale quantitativa
+che evita ostacoli dal punto di vista procedurale...
+
+- @LucaNaldo4RD: RT @SimoneBleynat: Non riuscirò a togliermi dalla
+mente il MUGGITOMETRO per un po'
+
+- @MorenoLaQuatra: Rough consensus &amp; running code per l'IETF,
+una concezione non gerarchica ma paritaria.
+
+- @FabioVallone: @FabioVallone Errata corrige: "Rough Consensus",
+scusate per l'errore... XD
+
+- @Rexsimo893: IETF ha procedura decisionale quantitativa (rumore
+e mailing list) che evita problemi di natura pratica (es. contestazioni)
+
+- @FabioVallone: RFC (870 per esempio) = Request For Comments
+
+- @93Levante: RT @Tech_OnTheRoad: Il braccio di ferro tra Apple e
+Samsung - A gestire il monopolio degli smartphone sono sempre di
+più Apple e... http://…
+
+- @ripa_pepperipa: : Request For Comments http://t.co/9BvIdGDGLe
+
+- @FabioVallone: I commenti durante i 6 mesi di RFC possono portare
+o all'abbandono dell'idea oppure a mdifiche. No obiezioni --&gt;
+Standard
+
+- @SabryKarate: RFC: Request for Comments, documento con specifiche
+riguardanti innovazioni e tecniche dell'ambito informatico o Internet.
+
+- @EmaParrinello: La standardizzazione avviene attraverso l'RFC
+(request for comment)
+
+- @Carrattrezzi: Gli standard approvati dalla IETF è il numero della
+"RFC" seguito dal tempo di discussione e dallo stato di approvazione
+
+- @Rexsimo893: RFC( Request For Comments) diventano gli standard
+di Internet dopo che passano un periodo dove possono essere commentati
+
+- @SabryKarate: IANA: Internet Assigned Numbers Authority 1988,
+dipende da ICANN
+
+- @LucaLiuzzi: IANA - internet assigned numbers authority
+
+- @ripa_pepperipa: : Altra entità ---&gt; IANA http://t.co/JTXr2HZWWy
+
+- @venadavide: IANA: Internet Assigned Numbers Authority, 1988,
+dipende da ICANN
+
+- @Rexsimo893: IANA nasce con la persona di Joe Postel che gestiva
+indirizzi IP
+
+- @93Levante: Le prime tre organizzazioni a che gestiscono interne
+sono: ISOC(1992),IETF(1986) e IANA(1988)
+
+- @Ale_Cannone:  Joe Postel gestiva gli indirizzi IP
+
+- @SabryKarate: IANA, primo compito: Global IP address allocation.
+Allocazione degli indirizzi IP.
+
+- @EmaParrinello: Agli albori di internet Joe Postel rappresentava
+l'IANA di oggi
+
+- @ripa_pepperipa: : IANA distribuisce gli indirizzi IP
+
+- @Ale_Cannone: IP con cui ci connettiamo viene dato da --&gt;
+Provider ----&gt; IANA
+
+- @ripa_pepperipa: : IANA gestisce anche i server root del DNS
+
+- @Carrattrezzi: IANA (1988) e Joe Postel allocano gli indirizzi
+IP (prima alle persone poi agli ISP) e gestiscono i server root del
+DNS
+
+- @Rexsimo893: IANA: allocazione indirizzi IP, gestione server root
+del DNS
+
+- @Ale_Cannone:  gerarchia basata su catene di server DNS nella
+quale i pilastri sono i server root (che sono dell'ordine di una
+decina)
+
+- @Ale_Cannone:  i server root sono 13 e sono protetti dal governo
+americano in quanto fondamentali per il collegamento a internet
+
+- @SabryKarate: Se dovessero essere fuori uso i server root fel
+DNS, solo chi conosce l'indirizzo IP dei siti potrebbe usare
+Internet...
+
+- @ripa_pepperipa: : I server root --&gt; http://t.co/rBXogZIQ62
+
+- @Ale_Cannone:  per la prossima volta ICANN e IAB
+
+- @Carrattrezzi: I 13 server DNS contengono tutte le informazioni
+sui server a cui richiedere di risolvere i DNS
+
+- @paolopopolizio: : (aspetto giuridico) le leggi del codice civile
+e codice penale valgono anche per internet.
+
+- @paolopopolizio: : chi ha potere e decide su internet? la struttura
+di Government (inglese-americana)
+
+- @paolopopolizio: : organismi della struttura burocratica di
+Government: -ricercatori(Bob Kahn,Jon Paste) che un ONG organizz.
+non governative
+
+- @paolopopolizio: : Internet Society:1992 società no profit, gestita
+da Vint Cerf, Bob khan, Virginia; con 50000 membri
+
+- @paolopopolizio: : Internet Society: http://t.co/hvYDDqrjR7
+
+- @paolopopolizio: : Internet Society è un'organizzazione di diritto
+americano per la promozione dell'utilizzo e dell'accesso a Internet
+
+- @paolopopolizio: : Accanto a Internet Society si sono sviluppate
+delle sezioni locali (chapter) che si riconoscono nei principi di
+ISOC
+
+- @paolopopolizio: : IETF dipende da ISOC; Internet Engineering
+Task Force (1986) http://t.co/pMFD8YZ0rO
+
+- @paolopopolizio: : La IERTF è un organismo internazionale, libero,
+composto da tecnici interessati all'evoluzione tecnologica di
+Internet.
+
+- @paolopopolizio: : riunioni IETF: può partecipare chiunque previo
+pagamento quota di iscrizione per coprire le spese
+
+- @paolopopolizio: :  Rough consensus: http://t.co/Ai4GCWEAtR
+Consenso approssimativo http://t.co/HuxHkUtVDB
+
+- @paolopopolizio: :  Rough consensus: impone che il luogo di
+discussione sia la maining list
+
+- @paolopopolizio: : RFC: Request For Comments
+
+- @paolopopolizio: : RFC: documento che riporta informazioni
+riguardanti nuove ricerche e metodologie dell'ambito informatico o
+di Internet
+
+- @paolopopolizio: : RFC http://t.co/KC7R3QOmDv
+
+- @paolopopolizio: @RivoluzDigitale: IANA: Internet Assinged Numbers
+Authority=autorità internet per i numeri assegnati (dipende da
+ICANN)
+
+- @paolopopolizio: @RivoluzDigitale: IANA: è un organismo che ha
+responsabilità nell'assegnazione degli indirizzi IP http://t.co/YeTWYMYuIF
+
+- @paolopopolizio: : Joe Postel: gestisce gli indirizzi IP. University
+of Southern California
+
+- @paolopopolizio: : Joe Postel: gestisce gli indirizzi IP finché
+non diventano troppi e la gestione diventa commerciale
+
+- @paolopopolizio: : ICANN: gestisce i server root del DNS a livello
+mondiale (13 DNS base sono protetti dal governo americano)
+
+
+## 2013-05-10
+
+### @VonGomben
+
+- @DavidePalermo2:  ShapeSmith è una web app per
+creare oggetti 3D - presente nei computer del FabLab
+
+- @Xfox1:  quasi quasi un pensiero sulla creazione
+di una stampante 3D lo faccio
+
+- @DavidePalermo2:  rimossi i file che permettevano
+la stampa della pistola 3D http://t.co/hzINMI38UG
+
+- @DavidePalermo2:  presto ci saranno i "negozi di
+materiali" @VonGomben
+
+- @SimoneBleynat: Che tamarro il ragazzino con lo scanner 3D
+
+
+- @Xfox1:  bel video!
+
+- @SabryKarate: Full printed, video in vimeo: http://t.co/CExj75Wrfv
+
+
+- @Xfox1:  sembra quasi fantascienza!
+
+- @Xfox1:  le migliori tecnologie utilizzate sempre
+a scopo militare, per il frenetico bisogno dell'uomo di essere
+"potente"
+
+- @DavidePalermo2:  http://t.co/DmpxtpM6iZ - Disseny
+Hub Barcelona
+
+- @DavidePalermo2:  futura possibilità di stampare
+tessuti, cucinare! DavideGomba FabLab
+
+- @Xfox1:  i rumori che vengono da dietro stuzzicano
+il mio interesse!
+
+- @SabryKarate: La lunga coda. Da un mercato di massa a una massa
+di mercati  Pure digital retailers Hybrid retailers Physical retailers
+
+
+- @DavidePalermo2:  Coda lunga - Wikipedia
+http://t.co/nRJbHar2Ej L'espressione coda lunga, in inglese The
+Long Tail
+
+- @Xfox1:  arduino &lt;3
+
+- @SabryKarate: Arduino: una delle prime schede rilasciate con
+Creative Commons.  
+
+- @DavidePalermo2:  ora si parla di Arduino
+DavideGomba
+
+- @AstoriPietro: Arduino è un progetto che nasce a Ivrea all'interno
+dell'Interaction Design Institute of Ivrea. @RivoluzDigitale
+
+
+- @DavidePalermo2:  Arduino è licenza Creative
+Commons Sviluppato presso l'Interaction Design Institute, con sede
+a Ivrea DavideGomba FabLab
+
+- @DavidePalermo2:  parliamo di OfficineArduino
+http://t.co/Xkht1Z04Hu @VonGomben
+
+- @Xfox1:  ecco cosa faccio io con arduino e raspberry
+pi: http://t.co/qz0DvNjGtL
+
+- @SabryKarate: Arduino è interamente Open Source.  
+DavideGomba
+
+- @DavidePalermo2:  Arduino , Cloni e Derivati
+FabLabTorino DavideGomba
+
+- @DavidePalermo2:  esistono prodotti con Arduino
+inside! DavideGomba
+
+- @AstoriPietro: I soliti cinesi, capaci solo a copiare! @RivoluzDigitale
+ arduino
+
+- @DavidePalermo2:  Arduino - Sito Ufficiale
+http://t.co/TQ95pfQgLL - @VonGomben
+
+- @DavidePalermo2: http://t.co/ZubOKAfmcB Il Blog di Silvia
+ Arduino DavideGomba
+
+- @SimoneBleynat: Mi sento quasi in colpa per aver passato la mia
+infanzia a giocare ai Pokémon invece che a smanettare con l'elettronica.
+Quasi.
+
+- @DavidePalermo2: L'anti paparazzi... Uno dei progetti più Pop
+creato con Arduino - @VonGomben
+
+- @SabryKarate: Anti paparazzi device, costruito grazie ad Arduino
+ @VonGomben http://t.co/WAgaB3oyeL
+
+- @DavidePalermo2:  Safecast and Arduino  Safecast
+http://t.co/zGmrJVLf9N – Ardupilot (an open sourced arduino based
+system) DavideGomba
+
+- @DavidePalermo2:  DIY Drones http://t.co/IFMUJZl2jf
+di Chris Anderson Arduino DavideGomba
+
+- @DavidePalermo2:  oltre Arduino ... La foglia
+Arduino che ti avvisa sullo Status della tua Pianta! DavideGomba
+
+- @Cine_Revolution: Al FabLab!! Ready, nerd, go!! Schermo
+antipaparazzi!!!  @m_caccialupi  @BrayGabriele
+http://t.co/KTEsIMvfbM
+
+- @DavidePalermo2:  ricostruire e riprodurre oggetti
+e utilità con Arduino costa meno! DavideGomba
+
+- @ripa_pepperipa:  - FabLab: applicazione di una
+scheda Arduino su una foglia al fine di fornire i dati di umidità
+del terreno!
+
+- @DavidePalermo2:  Diversified Biotech - Home of
+Cryo- Tags® and Tough-Tags http://t.co/d7YqBjSnhe
+
+- @Cine_Revolution: Le nuove frontiere del DoItYourself!! Le giornate
+Make!!@m_caccialupi @BrayGabriele @sakiu92
+
+- @DavidePalermo2:  Instructables - Make, How To,
+and DIY http://t.co/PXt0Ox9XAJ Arduino @VonGomben
+
+- @doublewisp: Lezione per @RivoluzDigitale, FabLab di Torino.
+Fantastico ma allo stesso tempo inquietante: immense potenzialità!
+arduino
+
+- @Clerish: Il motto di MAKE: "If you don't open it, you don't own
+it." Il mio stile di vita! @rivoluzdigitale
+
+- @DavidePalermo2:  Vuoi fare Scouting di Fabbriche?
+Usa http://t.co/Qc338Mu5yU http://t.co/1PA6ZUHGQ7 @VonGomben
+
+- @93_checco: Sms di Cavour a Garibaldi "grazie mille! " 
+
+- @DavidePalermo2:  DavideGomba parla anche di e
+commerce FabLabTorino
+
+- @venadavide: Sms di Cavour a Garibaldi "Grazie Mille" 
+
+- @SabryKarate: Makerspaces, FabLab: posti dove si può andare per
+stampare oggetti ideati virtualmente.  
+
+- @SabryKarate: Abbiamo ben 2 FabLab  a Torino!  
+
+- @DavidePalermo2:  Lezione di @VonGomben at
+FabLabTorino Arduino http://t.co/LMWLgRtclX
+
+- @DavidePalermo2:  Ci stiamo lentamente avviando
+alla fine dell' intervento di @VonGomben FabLabTorino
+
+- @DavidePalermo2: “@Tecno_Corriere: YouTube, ecco i primi canali
+a pagamento http://t.co/4u8tNcsthS” @BlogTDW
+
+- @m_caccialupi: Lezione al FabLab di via Egeo:-) Il futuro è
+qui:-)  tecnologia futuro
+
+- @SabryKarate: Lezione di  presso FabLab con
+@VonGomben http://t.co/NeM8Gdv7cR
+
+- @DavidePalermo2: Torino capitale makers italiani: FabLab di via
+Egeo, FabLab a Chieri e presto FabLab anche a Settimo T.se
+ Via @demartin
+
+- @SabryKarate: Lezione di  presso FabLab con
+@VonGomben riguardo ad Arduino http://t.co/YMswbjASnz
+
+- @SimoneBleynat: RT @demartin: Torino, capitale dei makers italiani:
+FabLab di via Egeo, FabLab a Chieri e presto FabLab anche a Settimo
+T.se @VonGomben @Ri…
+
+- @DavidePalermo2:  Ora esaminiamo nuovi progetti
+o progetti bizzarri FabLabTorino DavideGomba
+
+- @SabryKarate: "Personal customization madness" Personalizzare un
+oggetto molto comune per renderlo unico ed originale. 
+@VanGomben
+
+- @DavidePalermo2:  Finito l'intervento di @VonGomben
+al FabLabTorino Iniziamo ora un Tour! sapevatelo
+
+- @m_caccialupi:  stampanti 3d ... il teletrasporto?
+Perché no!! fablab @vonbomgen
+
+- @DavidePalermo2: NOTA: distinzione tra OfficineArduino e
+FabLabTorino 
+
+- @SabryKarate: Stampante 3D, strumento di prototipazione virtuale.
+
+
+- @ripa_pepperipa: : Oggi come oggi non c'è alcun
+FabLab inattivo al mondo! fablabTo
+
+- @BrayGabriele: Una cosa può essere tua e basta! Bisogna solo
+scegliere come farla!  VonGomben
+
+- @DavidePalermo2:  @FedericoPistono parla di Crowd
+Funding qui! http://t.co/QzxIsqwqc0 ;) sapevatelo
+
+- @DavidePalermo2: Pausa domande durante la lezione di 
+con @VonGomben
+
+- @doublewisp: "In un certo senso un FabLab è paragonabile ad un
+centro sociale tecnologico" @SalvatoriEnric ma in senso positivo!
+
+
+- @DavidePalermo2:  Maker Faire Rome |
+http://t.co/qjuEmA8p1c DavideGomba
+
+- @DavidePalermo2:  pausa 3 minuti poi finalmente
+il Tour! ;-) DavideGomba sapevatelo
+
+- @SabryKarate: Lezione di  fablab http://t.co/SkwCoMgXkF
+
+- @DavidePalermo2:  "la bici a 3 ruote" FabLabTorino
+@VonGomben http://t.co/VLenSaYoJ2
+
+- @SabryKarate: Lezione di  : stampante3d nel
+fablab http://t.co/YrkWcY4t5u
+
+- @DavidePalermo2:  Lezione al FabLab di Torino
+con @VonGomben @RivoluzDigitale http://t.co/JQZAe4WkmG
+
+- @SabryKarate: Lezione di  : stampante3d
+http://t.co/E9fEV9yxef
+
+- @_Celeritas: In verità non ho sbagliato, è solo il PC che mi ama
+&lt;3 http://t.co/K1vrhzEkq6
+
+- @DavidePalermo2:  ToolBox near to FabLabTorino
+! http://t.co/4UJmItBXHb
+
+- @SabryKarate:  stampante3d  incredibile vedere
+come crea piccoli oggetti! http://t.co/V0Z9VN9DLX
+
+- @vitalethomas: Lezione al fablab di Torino e visita al toolbox
+con il corso . Il futuro arriva anche in Italia :)
+officinearduino
+
+- @SabryKarate:  stampante3d  Amazing Photo
+http://t.co/21SxCKiJEN
+
+- @ripa_pepperipa: : stampante in 3D at fablabTo
+http://t.co/B0B2jRF037
+
+- @DavidePalermo2:  SCOOP! Arduino in vendita alle
+macchinette! FabLabTorino http://t.co/YhoyZhUbHb
+
+- @DavidePalermo2:  "La struttura del FabLabTorino
+ricorda il Lingotto" @VonGomben
+
+- @DavidePalermo2:  Just a Picture of Us @RivoluzDigitale
+http://t.co/6SXSUlAVIi
+
+- @vitalethomas: stampanti3d in azione al FabLab di Torino nel
+Toolbox, con il corso del Politecnico .
+http://t.co/zGp5GOjpFH
+
+- @DavidePalermo2: RT @demartin: Visita al FabLab/Toolbox @vongomben
+@rivoluzdigitale http://t.co/Mext36f0pH
+
+- @CaracciFabio: Lezione di  presso il fabiolab e
+toobox di torino.
+
+- @SabryKarate: @VonGomben conferma l'importanza dell'uso di Internet
+e dei computer: mailing list e blog sono strumenti utili.
+
+
+- @CaracciFabio: Stampanti 3D: le stampanti del futuro. 
+
+- @Gare_1993: Grazie per questa lezione che apre un po' gli occhi
+su un futuro imprevedibile ma decisamente interessante a @VonGomben
+e @RivoluzDigitale
+
+- @SabryKarate: Grazie a @VonGomben per la stupenda lezione di
+ i presso FabLabTorino ! http://t.co/WcUE88u2Xb
+
+- @ripa_pepperipa: : at fablabTo http://t.co/wpQxPvPIYn
+
+- @SoFranchy: RT @demartin: Visita al FabLab/Toolbox @vongomben
+@rivoluzdigitale http://t.co/Mext36f0pH
+
+- @ripa_pepperipa: : at fablabTo http://t.co/Q5oErYwvFv
+
+- @vitalethomas: Grazie @VonGomben per la lezione appassionante e
+interessante al fablab di torino, toolbox, per il corso
+ del Politecnico
+
+- @SoFranchy: RT @SabryKarate: Anti paparazzi device, costruito
+grazie ad Arduino    @VonGomben http://t.co/WAgaB3oyeL
+
+- @arduinoallinclu: RT @SabryKarate: Anti paparazzi device, costruito
+grazie ad Arduino    @VonGomben http://t.co/WAgaB3oyeL
+
+- @SoFranchy: Grazie @VonGomben per la lezione presso il Fablab
+di Torino, stimolante verso l'idea del making. Grazie a @demartin.
+http://t.co/chw8JK058Y
+
+- @ManuelGuarino93: RT @demartin: Tra pochi minuti inizia la lezione
+di @RivoluzDigitale al FabLab Torino con @VonGomben http://t.co/v8QcgftBrg
+
+- @DavidePalermo2: @VonGomben You've been quoted in my Storify
+"Lezione al Fab Lab con Davide Gomba - Corso di Rivoluzione Digitale"
+http://t.co/lvmkUKGwFx
+
+- @FlavioGiobergia: RT @demartin: Visita al FabLab/Toolbox @vongomben
+@rivoluzdigitale http://t.co/Mext36f0pH
+
+- @Clerish: RT @SabryKarate: Grazie a @VonGomben per la stupenda
+lezione di  i presso FabLabTorino ! http://t.co/WcUE88u2Xb
+
+- @SoFranchy: Grazie @DavidePalermo2. Molto di ciò che ha detto
+@VonGomben nell'articolo sull'intervista a @Diego_Zeppegno
+http://t.co/qnFatDGoH4
+
+- @arduinoallinclu:  Molto di ciò che ha detto
+@VonGomben su Arduino è nell'articolo sull'intervista a @Diego_Zeppegno
+http://t.co/tzQuJfDlUI
+
+- @Antonio_Langiu: RT @demartin: Tra pochi minuti inizia la lezione
+di @RivoluzDigitale al FabLab Torino con @VonGomben http://t.co/v8QcgftBrg
+
+
+
 ## 2013-05-08
 
 ### @bassosimone
@@ -3509,7 +5223,7 @@ sintassi con la @
 la @ risale al 1973
 
 - @SoFranchy: Email più che ventenne quando internet diventa anche
-commerciale #Rivoluzdigitale. @bassosimone, eri in buona compagnia
+commerciale . @bassosimone, eri in buona compagnia
 
 - @LucaLiuzzi: Abolito nel '95 il divieto commerciale su internet.Internet
 ormai è matura, esistono già le email ( app creata già nel '73).
@@ -3601,7 +5315,7 @@ byte - IP v4 del tipo 130.192.12.17
 indirizzo-IP
 
 - @SoFranchy: DNS per associare a indirizzo ip indirizzo
-mnemonico. #Rivoluzdigitale
+mnemonico. 
 
 
 
@@ -3611,575 +5325,1341 @@ mnemonico. #Rivoluzdigitale
 
 #### Personal computer
 
-- @SabryKarate: Inizialmente l'accesso ai Mainframe era mediato da tecnici
+- Federico Faggin: co-inventore del microprocessore, collabora con
+Olivetti e nel 1960 dice “L’Italia è indietro di 3-4 anni rispetto
+agli Stati Uniti”.
 
-- @Ale_Cannone: Federico Faggin: inventore del microprocessore
+- Dopo la morte di Adriano Olivetti, il gruppo dei finanziatori
+dell'azienda sceglie di lasciar perdere i computer.
 
-- @FabioBussi: Il gruppo dei finanziatori dell'Olivetti, dopo la morte di
-  Olivetti, sceglie di lasciar perdere i computer
+- Inizialmente, nei computer, il software non era separato
+dall’hardware. Compravi una macchina con un software già
+incluso. Quindi fino agli anni '70, non esisteva un mercato del SW o
+HW. E' grazie al personal computer (anni ’70) che avviene la separazione
+hardware – software.
 
-- @FabioVallone: Federico Faggin (co)inventore del mP nel 1960 fa nascere
-  in Italia l'Olivetti, restando però indietro 3-4 anni rispetto USA
+- Il personal Computer di IBM (1982) divenne il PC per eccellenza. Ma,
+attenzione: per PC si intende un qualunque personal computer, non
+necessariamente Windows.
 
-  [@bassosimone: verificare collegamento tra Faggin e Olivetti]
+- Con la separazione Hw / Sw, nascono l’industria dell’hardware e,
+soprattutto, quella del software. Inoltre, nasce subito la consapevolezza
+che le macchine siano in grado di copiare perfettamente il Sw, rendendo
+necessarie delle misure di tutela.
 
-- @SabryKarate: Il software non era separato dall'hardware: era pre-
-  installato.
+- Si decise di tutelare il software con il diritto d'autore (in inglese,
+copyright), quindi fino a 70 anni dopo la morte dell’autore. Il diritto
+d'autore tutela l'esatta sequenza di istruzioni usata nel Software,
+non l'idea che ci sta alla base.
 
-- @FabioBussi: Pc=personal computer, non necessariamente Windows
+- IBM fece una scelta importante: le specifiche del computer sono
+pubbliche. Ciò vuol dire avere la libertà di poter aggiungere
+periferiche a piacimento. Facendo tale scelta, IBM opta per
+un’architettura HW molto aperta.
 
-- @MorenoLaQuatra: Non c'era ancora il concetto di software, tardi anni
-  '60, compravi tutto Hardware + Software -
+- I PC dell'IBM uscivano con il sistema operativo MS-DOS, ma su di essi
+si potevano installare anche sistemi operativi diversi (ad es. CP/M,
+usato da Altair: http://t.co/BeQucmPx4g). L’IBM provò anche a fare un
+suo sistema operativo interno, fallendo miseramente. HW (aperto) -&gt;
+S.O.(a scelta) -&gt; Applicativi (a  scelta)
 
-- @ripa_pepperipa: fino agli anni '70 non esisteva ancora un mercato del
-  SW o HW.
+- Nel 1984 si pongono le basi per il Movimento del Software Libero,
+a opera di Richard Stallman (http://t.co/UhIoqKMRr6), che sviluppa una
+vera e propria etica  del software.
 
-- @SabryKarate: E' grazie al personal computer che avviene la separazione
-  hardware - software
+- Dall’altro lato, esistono anche il trusted computing, un chip che
+impedisce installazione di applicazioni non firmate digitalmente. Per
+esempio, installare un altro S.O. su #iPhone è molto pi difficile che
+cambiare S.O. su un personal computer (esempio di sistema chiuso).
 
-- @FabioVallone: Col PC Hw e Sw si separano. In questo modo si può
-  comprare un PC solo per l'hardware
-
-- @FabioBussi: @FabioBussi: Divisione hardware e software con avvento dei
-  personal computer
-
-- @EmaParrinello: con l'invenzione del Personal Computer negli anni '70
-  l'hardware e il software si separano..Nasce l industria del software
-
-- @FabioVallone: Nasce subito l'idea che le macchine sono in grado di
-  copiare perfettamente il Sw rendendo necessarie delle misure di tutela
-
-- @EnricoBello20: Con la nascita dell'industria dei SW ci si domanda come
-  si potrebbe tutelare il proprio software
-
-- @FabioVallone: Il personal Computer di IBM divenne il PC per eccellenza
-
-- @MorenoLaQuatra: 1982, nasce il primo PC, MADE BY IBM
-
-- @FabioBussi: Nel 1982 IBM crea il suo primo pc invadendo il mercato con
-  la forza di una multinazionale, diventando IL pc
-
-- @FabioVallone: Il software venne tutelato con il diritto d'autore
-  (quindi fino a 70 anni dopo la morte)
-
-- @SabryKarate: Anche il software è tutelato dal diritto d'autore.
-
-- @EnricoBello20: Le industrie decidono di tutelare il SW con il Diritto
-  d'autore: copyright fino a 70 anni dopo la morte dell'inventore
-
-- @FabioVallone: Il diritto d'autore tutela l'esatta sequenza di
-  istruzioni usata nel Software, non l'idea che ci sta alla base
-
-- @MorenoLaQuatra: I software tutelati fino a 70 anni dopo la morte
-  dell'autore, solo l'intera successioni di carattere del codice, non
-  l'idea
-
-- @Ale_Cannone: inizialmente si decide di tutelare il codice di un
-  software con i diritti d'autore/copyright
-
-- @FabioVallone: IBM fece una scelta importante: le specifiche del
-  computer sono pubbliche Ciò vuol dire avere più scelta per le
-  periferiche
-
-- @ripa_pepperipa: il diritto d'autore tutela la forma espressiva
-  e.l'esatta sequenza delle parole. NON L'IDEA!
-
-- @FabioVallone: Facendo tale scelta, IBM, scelse di avere un architettura
-  HW molto aperta
-
-- @SabryKarate: IBM fece un'architettura hardware aperta: permette di
-  inserire pezzi intercambiabili.
-
-- @EmaParrinello: L'IBM lancia sul mercato PC con architettura hardware
-  aperta
-
-- @LucaLiuzzi: IBM predilige un'architettura hardware aperta.
-
-- @FabioBussi: IBM decide di costruire il proprio pc con architettura HW
-  aperta con libertà di poter aggiungere periferiche liberamente
-
-- @MorenoLaQuatra: Complimenti alla IBM, architettura aperta, libero sfogo
-  alla possibilità dell'utente
-
-- @FabioVallone: I PC dell'IBM uscivano con MS-DOS, ma su di essi si
-  poteva installare anche sistemi operativi diversi (ad es. CPM)
-
-- @EnricoBello20: Nel 1984 si pongono le basi per il Movimento del
-  Software Libero, a opera di Richard Stallman
-
-- @DavidePalermo2: CP/M Sistema Operativo usato per Altair
-  http://t.co/BeQucmPx4g
-
-- @SabryKarate: 1984, Richard Stallman sviluppa una vera e propria etica
-  del software.
-
-- @FabioVallone: HW (aperto) -&gt; S.O.(a scelta) -&gt; Applicativi (a
-  scelta)
-
-- @EricaAcire19: L’IBM provò anche a fare un suo sistema operativo
-  interno, fallendo miseramente.
-
-- @DavidePalermo2: http://t.co/UhIoqKMRr6 pagina personale di Richard
-  Stallman
-
-- @RivoluzDigitale: trusted computing, chip che impedisce installazione di
-  applicazioni non firmate digitalmente
-
-- @DavidePalermo2: Piattaforma Aperta -&gt; Generativa -&gt; problemi di
-  sicurezza, stabilità, ...
-
-- @EricaAcire19: Installare un altro S.O. su #iPhone è molto più
-  difficile che cambiare S.O. su un personal computer.
-
-- @FabioVallone: Il fatto di scegliere una piattaforma aperta porta
-  problemi:-Sicurezza, -Stabilità, -...
-
-- @RivoluzDigitale: quanto il pendolo oscilli tra sicurezza e liberta`
-  viene determinato socialmente
+- Tuttavia, il fatto di scegliere una piattaforma aperta (come nel caso
+di IBM) porta problemi di: Sicurezza, Stabilità.  Infatti, Piattaforma
+Aperta -&gt; Generativa -&gt; problemi di sicurezza, stabilità. Quanto il
+pendolo oscilli tra sicurezza e liberta’  viene determinato socialmente.
 
 #### Reti di computer
 
-- @Rexsimo893: Anni '80: i PC non dialogavano fra di loro, solo uso locale
+- Anni '80: i PC erano isolati, non dialogavano fra di loro, solo
+uso locale.
 
-- @EnricoBello20: Diffusione dei pc, che però venivano acquistati per un
-  uso locale: i pc erano isolati tra di loro!
+- Dall' inizio degli anni '60 si comincia a parlare di come collegare
+i PC tra loro: nasce l’idea di sviluppare una rete di computer. Ciò
+grazie alla diffusione di massa della rete telefonica.
 
-- @DavidePalermo2: Ora trattiano dei cenni di un argomento vasto: Reti di
-  Computer
+- Inizialmente si pensa di farlo  tramite la rete telefonica, che era uno
+dei pilastri della società. Era (e continua ad essere) un'infrastruttura
+critica (grande importanza dal punto di vista mediatico), una rete
+chiusa (non viene detto come funziona), gerarchica (grosse centrali
+-&gt; centrali minori -&gt; apparecchi) e intelligente (al contrario del
+telefono, che è un dispositivo in sé stupido, “dumb”). Un sistema
+TOP DOWN.
 
-- @FabioVallone: I Personal Computers all'inizio erano isolati tra di
-  loro. Le reti di Computer non erano ancora sviluppate.
+Piccolo OT: Mubarak provò a “spegnere” rete internet e  telefonica
+ma dopo pochi giorni dovette riaccenderla perché il Paese era bloccato.
 
-- @LucaLiuzzi: Negli anni '80 nascono le prime reti di calcolatori.
+Tornando alle origini di Internet, siamo in piena Guerra Fredda. Per
+la connessione tra computer si pensa, quindi, ad una struttura non
+gerarchica: una rete interconnessa ha il vantaggio di non avere nodi
+principali, punti critici. A quel tempo, si pensava a una rete di
+calcolatori che resistesse ad attacco nucleare (idea 1, di derivazione
+militare) (foto by @Xfox1: http://t.co/onaw8zySpN)
 
-- @FabioVallone: Dagli anni '60 si iniziano a sviluppare le reti di
-  Computer. Ciò grazie alla diffusione di massa della rete telefonica
+- Idea 2, segmentazione del contenuto. Mentre la rete telefonica
+è una commutazione di circuito (c’è un circuito fisico da A a
+B allocato al 100% per la durata della telefonata), per Internet si
+pensa ad un’alternativa. Infatti, se un contenuto è rappresentabile
+in maniera discreta (bit), posso dividerlo in pacchetti (1500 byte)
+=&gt; packet switching (foto di @Xfox1: http://t.co/q0oaeFRTAq -
+http://t.co/QBEPVq0vSk)
 
-- @Ale_Cannone: dall' inizio degli anni '60 si comincia a parlare di come
-  collegare i PC tra loro
+- Grazie a questa multiplazione (https://t.co/OaM0CQFQoL) dei pacchetti,
+ognuno si prende 1/N della capacita` del canale. Maggiore efficienza.
 
-- @EmaParrinello: Negli anni '60 ci si chiede come collegare i computer
-  tramite la rete telefonica .
+- Negli anni ’60, un gruppo di sviluppatori prova a mettere in pratica
+le idee 1 e 2: rete magliata con pacchetti e non bit  sequenziali. In
+quegli anni, DARPA investe miliardi di dollari in ricerca di base (tra
+cui “l'internet-working a commutazione di pacchetto”).
 
-- @FabioVallone: La rete telefonica è uno dei pilastri della società
+- DARPA (Defense Advanced Research Projects Agency), nasce durante la
+guerra fredda: http://t.co/fnsPKPar57 - http://t.co/xSUlTnpMPG
 
-- @MorenoLaQuatra: Rete telefonica, sfruttata per le reti di personal
-  computer. Potenza di calcolo di un singolo PC che condivide informazioni
+- Vannevar Bush: "Science is the new frontier" -
+  http://t.co/j5jQbjUdaM - http://t.co/jim66gtAfA
 
-- @SabryKarate: La rete telefonica è un'infrastruttura critica: ha grande
-  importanza dal punto di vista mediatico.
+- "Internet e' stata fatta dai militari" e' una semplificazione, casomai
+e' stata finanziata (DARPA).
 
-- @FabioVallone: Rete telefonica: -Gerarchica; -intelligente, ma il
-  dispositvo è stupido; opaca, chiusa
+- Alcuni ricercatori importanti per la storia di Internet: Vint Cerf,
+Jon Postel, Bob Kahn
 
-- @EricaAcire19: Mubarak provò a “spegnere” rete internet e
-  telefonica ma dopo pochi gg dovette riaccenderla perché paese bloccato.
+- Vint Cerf, uno dei "padri di Internet", adesso lavora per google:
+https://t.co/1RWDTDIjFZ
 
-- @ripa_pepperipa: all'inizio degli anni '60 si iniziano a studiare le
-  reti di computer. La rete di default è quella telefonica!
+- John Postel, l'uomo-internet! Per 30 anni, gestì tutti gli indirizzi
+IP. http://t.co/QflM7d4vtL
 
-- @LucaLiuzzi: La rete telefonica : Gerarchica,intelligente e chiusa.
+- Bob Kahn: ha lavorato per DARPA, finanziò il progetto di
+Inter-networking.
 
-- @SabryKarate: Telefono: strumento "stupido", ma Rete intelligente.
+- Questi 3 uomini nel 1972 offrono una prima demo pubblica di
+networking tra mainframe a commutazione di pacchetto (foto di @Xfox1:
+http://t.co/4cGFUp2sPP)
 
-- @Ale_Cannone: La rete telefonica era: gerarchica, intelligente e opaca.
-  Il dispositivo era stupido.
+- BBN, UCSB, Salt Lake City, UCLA sono i primi nodi della rete.
 
-- @MorenoLaQuatra: Il telefono dumb, - la rete intelligente (per garantire
-  la massima diffusione)
+- Bob Kahn (DARPA) dice "..da centinaia a decine di milioni di
+nodi.." ecco il vero successo di internet!
 
-- @DavidePalermo2: Imparare ad usare il telefono -&gt; 20 secondi Il
-  telefono è stupido!
+- L'architettura base di internet è quella di una rete stupida, in
+cui l'intelligenza sta nei dispositivi (i computer). Esattamente al
+contrario rispetto al telefono. "Stupid network, intelligence at the
+edges": si rendono più complicati i dispositivi ai margini della rete,
+il network però è "stupido".
 
-- @Rexsimo893: La rete telefonica è intelligente, mentre i dispositivi
-  sono stupidi: poco costosi e facili da usare
+- Questa architettura di rete viene detta "E2E" (End to  End): ai capi
+dispositivi intelligenti e al centro una rete stupida.
 
-- @FabioVallone: La rete telefonica è stata sviluppata in modo da essere
-  utilizzata in modo semplice tramite l'utilizzo di un dispositivo
+- Questa nuova visione aprì le porte per nuovi usi: l'evoluzione non è
+più della rete ma dei dispositivi che la utilizzano. La rete "scala"
+meglio; Apparecchiature di rete più semplici-&gt;meno costose; Rete
+stupida=generatività. Una rete del genere si limita a smistare pacchetti,
+a trasmettere "dati". Non è ottimizzata per nulla in particolare. Gli
+usi sono molteplici
 
-- @MorenoLaQuatra: Rete telefonica, sistema TOP DOWN
+- Al contrario, la telefonia è molto ottimizzata: ha il 99.999% di
+affidabilità (i.e. 3 minuti di downtime all'anno)
 
-- @EmaParrinello: Internet: tutto nasce durante la Guerra Fredda
+- La Storia di Internet http://t.co/SioFiWOi11
 
-- @Clerish: Solo con la diffusione dei PC iniziò a formarsi un'industria
-  del software. Prima tutti i programmi erano preinstallati.
+- "Internet è la più grande piattaforma per l'innovazione mai costruita"
+Lawrence Lessig (Twitter: @lessig Tumblr: http://t.co/n67IBLQqzB)
 
-- @SabryKarate: Una struttura non gerarchica ha il vantaggio che non ci
-  sono nodi principali: una rete interconnessa non ha punti critici.
+- WikiPage di Marshall McLuhan http://t.co/4qKLfkvkrk
 
-- @CaracciFabio: Rete intelligente accoppiata a un dispositivo stupido.
-  Intelligenti e stupidi che vanno d'accordo chi lo avrebbe mai detto
+- “DARPAnet”: rete finanziata da DARPA (ora è “Internet”).
 
-- @EricaAcire19: si pensava a una rete di calcolatori che resistesse ad
-  attacco nucleare.
+- All'inizio DARPAnet, poi per chiamare la connessione delle varie
+reti locali tra di loro, si parla di interconnessione (interconnected
+networks), ovvero… Internet: inter-networking (“reti interconnesse”,
+“reti di reti”).
 
-- @RivoluzDigitale: idea 1, piu` strategica, rete in grado di sopravvivere
-  ad un attacco atomico (eravamo in piena guerra fredda)
+- Inter-networking: rete di reti, collegate tra loro grazie a Gateway,
+che traduce il linguaggio locale in una lingua franca. Questo linguaggio
+è l’Internet Protocol (IP) e serve affinché tutte le reti possano
+dialogare.
 
-- @Xfox1: perché scrivere se ti puoi esprimere meglio con le foto?
-  http://t.co/onaw8zySpN
+- Ethernet: http://t.co/jrC4VVfOOa
 
-- @LucaLiuzzi: Le prime idee che porteranno a internet sono di derivazione
-  Militare.
+- Caratteristiche del protocollo Internet: dati binari divisi in pacchetti
+(paylod) di 1500 byte;  aggiunta di intestazione (header) ai dati.
 
-- @EnricoBello20: idea 2:il telefono è una commutazione di circuito:
-  circuito fisico da A a B allocato al 100% per la durata della telefonata
+- MEMENTO Come funziona Internet? http://t.co/j2OqAEZuGU
 
-- @FabioVallone: Idea rete telefonica:-Rete gerarchica
-  (sicurezza,robustezza)-Segmentizzazione del contenuto
+- Nell'IP, ogni nodo riceve e manda pacchetti. Ogni pacchetto viaggia
+indipendentemente. L'indirizzo IP (versione 4: http://t.co/TomPlEXwbL)
+è composto da 4 byte (i.e. 132.128.17.16) ogni numero è compreso tra
+0 e 255 ed è separato da un punto.
 
-- @DavidePalermo2: se contenuto è 1 rappr in maniera discreta (bit) 2
-  diviso in pacchetti (1500 byte) si parla di pacchettizzazione
+- Piccola curiosità: gli indirizzi IPv4 sono quasi finiti. Entro pochi
+anni i nuovi siti avranno tutti indirizzi IPv6.
 
-- @FabioVallone: Per pacchettizzare il contenuto il contenuto deve essere
-  rappresentabile in maniera discreta (bit)
+- Tramite l'indirizzo IP si identifica un solo PC nella rete. Va aggiunto
+all'Header per far arrivare i dati al destinatario.
 
-- @RivoluzDigitale: idea 2, rappresento informazioni come bit e le divido
-  in pacchetti =&gt; packet switching
+- Viaggio dei pacchetti: pacchetto va al gateway. L'indirizzo viene letto
+e il pacchetto viene mandato al nodo successivo. Ogni singolo nodo ha
+solo la visibilità sul nodo successivo.
 
-- @Xfox1: http://t.co/q0oaeFRTAq
+- Tabelle di instradamento: dicono per ogni nodo su quale link di uscita
+mandare pacchetto in base a indirizzo destinazione.
 
-- @RivoluzDigitale: multiplazione del canale , ognuno si prende 1/N della
-  capacita` disponibile
+- By the way, chiariamo eh: ogni nodo ha la sua tabella di indirizzamento.
 
-- @Xfox1: http://t.co/QBEPVq0vSk
+- Qualunque computer puo`, in linea di principio,  instradare pacchetti,
+ma dentro la rete ci sono macchine specializzate,  chiamate router
+(“instradatori”), che instradano pacchetti in modo molto efficiente.
 
-- @FabioVallone: Se più persone vogliono parlare contemporaneamente, i
-  pacchetti vengono trasmessi in modo alternato. Così è più efficiente
+- Il comando "traceroute ..." (su Windows il comando è "tracert
+...") messo in qualunque terminale serve per sapere quanti nodi servono
+per arrivare a destinazione.
 
-- @DavidePalermo2: La multiplazione: https://t.co/OaM0CQFQoL
+#### Principi di Internet
 
-- @DavidePalermo2: Inventor of the internet technology packet switching.
-  Leonard Kleinrock http://t.co/bMvQ2zfl1v
+- Il principio di base di Internet è "best effort": nessuna garanzia
+per nessuno (infatti, può capitare che alcuni pacchetti vengano persi
+durante il "trasporto").
 
-- @DavidePalermo2: DARPA http://t.co/fnsPKPar57
+- Un altro principio è la neutralita` della rete: tutti i pacchetti
+sono trattati allo stesso modo indipententemente da cosa trasportano,
+dal mittente, dal destinatario, dal dispositivo e dall'applicazione. I
+nodi guardano solo l’IP del destinatario e trattano tutti i pacchetti
+allo stesso modo
 
-- @FabioVallone: DARPA (Defense Advanced Research Projects Agency) nasce
-  durante la guerra fredda
+- Tuttavia, oggi i #router ora sono così potenti da poter sbirciare nei
+pacchetti dati ["deep packet inspection"]. Economicamente e' perfettamente
+razionale che un operatore si accordi con altri attori per trattamento
+preferenziale. Ma se gli operatori hanno la facolta` di fare questi
+accordi, Internet diventa un'altra cosa [molto meno generativa]
 
-- @DavidePalermo2: talking about @DARPA
+- Cappuccetto rosso - Storia di un pacchetto perduto
+http://t.co/M8msW8s2dD
 
-- @EricaAcire19: gruppo di sviluppatori prova a mettere
-  in pratica I e II idea: rete magliata con pacchetti e non bit
-  sequenziali.
+- Olanda e Slovenia hanno fatto delle leggi per difendere il principio
+di neutralità della rete
 
-- @RivoluzDigitale: USA: DARPA e altri progetti di ricerca militari negli
-  anni '60 rovesciano miliardi di dollari in ricerca di base
+- Memento: il prof De Martin ci ricorda di studiare “Come funziona
+Internet”, un piccolo opuscolo che fa parte del programma:
+http://t.co/9hqYa5GDHt
 
-- @Xfox1: tecniche di multiplazione?
-
-- @FabioVallone: La ricerca di base venne finanziata dal DARPA
-
-- @RivoluzDigitale: Vannevar Bush: "Science is the new frontier" -
-  http://t.co/j5jQbjUdaM
-
-- @DavidePalermo2: Science The Endless Frontier - Vannevar Bush - July
-  1945 http://t.co/jim66gtAfA
-
-- @FabioVallone: Il DARPA finanzia anche l'"internet-working a
-  commutazione di pacchetto"
-
-- @LolloCler: cos'é la DARPA? http://t.co/xSUlTnpMPG
-
-- @Rexsimo893: DARPA agenzia che finanzia internet-working a commutazione
-  di pacchetto
-
-- @RivoluzDigitale: "Internet e' stata fatta dai militari" e' una
-  semplificazione, casomai e' stata finanziata (DARPA)
-
-- @Ale_Cannone: tra i molti progetti la DARPA finanzia l'internet-working
-  a commutazione a pacchetto
-
-- @SabryKarate: Vint Cerf, uno dei "padri di Internet":
-  https://t.co/1RWDTDIjFZ
-
-- @Clerish: Internet come lo conosciamo è nato grazie alle ricerche
-  finanziate dalla DARPA. #darpa
-
-- @LucaLiuzzi: D.A.R.P.A. Defense advance research projects agency.
-
-- @RivoluzDigitale: alcuni ricercatori importanti per la storia di
-  Internet: Vint Cerf, Jon Postel, Bob Kahn
-
-- @FabioVallone: Alcuni nomi DARPA: Vint Cerf (adesso lavora per google)
-  John Postel (gestì a mano gli indirizzi IP) Bob Kahn (finanzatore)
-
-- @MathieuMauri: Jon Postel, l'uomo-internet! Gestiva tutti gli indirizzi
-  IP!!!
-
-- @ripa_pepperipa: la scienza è la nostra nuova frontiera!
-
-- @ripa_pepperipa: Jon Postel per 30 anni ha gestito gli indirizzi IP
-
-- @FabioVallone: 1972: prima demo pubblica di networking tra mainframe a
-  commutazione di pacchetto
-
-- @RivoluzDigitale: 1972 dimostrazione pubblica della commutazione tra
-  mainframe (Cerf, Kahn, Postel)
-
-- @Ale_Cannone: primi nodi: BBN, UCSB, Salt Lake City, UCLA
-
-- @Xfox1: #CosaSuccedeInAula http://t.co/4cGFUp2sPP
-
-- @FabioVallone: BBN, UCSB, Salt Lake City, UCLA sono i primi nodi della
-  rete.
-
-- @LolloCler: Bob Kahn (DARPA) dice "..da centinaia a decine di milioni di
-  nodi.." ecco il vero successo di internet!
-
-- @EnricoBello20: l'architettura base di internet era quella di
-  un'infrastruttura stupida, in cui l'intelligenza sta nei computer
-
-- @FabioVallone: Fu proposto il contrario: rete stupida e dispositivi
-  intelligenti
-
-- @SabryKarate: Inversione di tendenza della rete Internet rispetto alla
-  rete telefonica: Dispositivi intelligenti e Rete "stupida".
-
-- @ripa_pepperipa: - Idea: non si può creare una rete profondamente
-  stupida con dispositivi estremamente intelligenti ai bordi?
-
-- @ripa_pepperipa: http://t.co/QflM7d4vtL [Jon Postel]
-
-- @RivoluzDigitale: Idea di base di Internet: "Stupid network,
-  intelligence at the edges"
-
-- @LucaLiuzzi: Si rendono più complicati i dispositivi ai margini della
-  rete; il network però è "stupido".
-
-- @FabioVallone: Questa nuova visione aprì le porte per nuovi usi:
-  l'evoluzione non è più della rete ma dei dispositivi che la
-  utilizzano.
-
-- @FabioVallone: La rete "scala" meglio; Apparecchiature di rete più
-  semplici-&gt;meno costose; Rete stupida=generatività.
-
-- @FabioVallone: Con la nuova idea di rete si possono trasmettere
-  "dati".Non è ottimizzata per nulla in particolare.Gli usi sono
-  molteplici
-
-- @Ale_Cannone: internet: rete pensata per la trasmissione di dati in
-  generale e non per applicazioni in particolare
-
-- @SabryKarate: Una rete che non sia ottimizzata per nessuna funzione in
-  particolare può essere sfruttata per vari scopi.
-
-- @DavidePalermo2: Architettura è end to end! E2E :-)
-
-- @GiGirgenti: telefonia 99.999% di affidabilita` (i.e. 3 minuti di downtime
-  all'anno)
-
-- @FabioVallone: Questa architettura di rete viene detta "E2E" (End to
-  End). E' un sinonimo di rete stupida e dispositivi intelligenti
-
-- @EnricoBello20: internet inizialmente è una rete End-to-End (E2E): rete
-  stupida e dispositivi marginali intelligenti!
-
-- @LucaLiuzzi: Per architettura E2E si intende che la struttura va da un
-  capo all'altro.
-
-- @DavidePalermo2: La Storia di Internet http://t.co/SioFiWOi11 :-) [YouTube]
-
-- @SabryKarate: "Internet è la più grande piattaforma per l'innovazione
-  mai costruita" Lawrence Lessig
-
-- @FabioVallone: E2E: Apertura agli usi imprevisti; "internet è la più
-  grande piattaforma per l'innovazione mai costruita" (Lawrence Lessig)
-
-- @DavidePalermo2: WikiPage di Marshall McLuhan http://t.co/4qKLfkvkrk
-
-- @DavidePalermo2: Tumblr Blog di Lessig http://t.co/n67IBLQqzB
-
-- @EmaParrinello: "Internet è la più grande piattaforma per
-  l'innovazione mai costruita" Lawrence Lessig
-
-- @MorenoLaQuatra: L'attenzione sul software basata sull'architettura E2E
-
-- @RivoluzDigitale: "Internet e' la piu` grande piattaforma per
-  l'innovazione mai costruita" @lessig
-
-- @FabioVallone: DARPAnet=Rete finanziata da DARPA (ora è internet).
-
-- @SabryKarate: Perché Internet? Internet: interconnected networks, ossia
-  "reti interconnesse"
-
-- @LucaLiuzzi: Perché "internet"?All'inizio DARPAnet poi per chiamare la
-  connessione delle varie reti locali si parla di interconnessione.
-
-- @FabioVallone: Internet nasce per interconnetere tra di loro più reti
-
-- @LucaLiuzzi: Internet: inter-networking - Reti di reti.
-
-- @LolloCler: internetworking rete di reti, collegate tra loro grazie a
-  gateway che traduce linguaggio locale in una lingua franca
-
-- @RivoluzDigitale: Internet come "rete di reti", come lingua franca con
-  cui una specifica rete locale parla con tutto il resto del mondo
-
-- @LolloCler: dimenticavo.. l'ip (internet protocol) é la lingua franca!
-
-- @DavidePalermo2: Ethernet http://t.co/jrC4VVfOOa
-
-- @FabioVallone: Il protocollo serve come lingua franca che tutte le reti
-  possono parlare
-
-- @EnricoBello20: internet connette tra di loro le diverse reti tramite
-  l'IP (Internet Protocol)
-
-- @FabioVallone: Caratteristiche protocollo: dati binari in pacchetti;
-  Aggiunta di intestazione ai dati (header)
-
-- @Ale_Cannone: internet: i dati binari devono essere divisi in pacchetti
-  di max 1500 byte con una intestazione (header)
-
-- @DavidePalermo2: MEMENTO Come funziona Internet? http://t.co/j2OqAEZuGU
-
-- @FabioVallone: Payload= dati binari divisi in pacchetti; Header=
-  intestazione dei dati;
-
-- @ripa_pepperipa: caratteristiche principali degli indirizzi IP: dati
-  binari divisi in pacchetti (payload) e intestazione (heades)
-
-- @FabioVallone: Nell'IP ogni nodo riceve e manda pacchetti. Ogni
-  pacchetto viaggia indipendentemente.
-
-- @FabioVallone: L'indirizzo IP è composto da 4 byte (es. 132.128.17.16)
-  ogni numero è compreso tra 0 e 255
-
-- @RivoluzDigitale: indirizzo IP versione 4: numero su 32 bit
-  rappresentato come 4 byte (i.e. numeri tra 0 e 255) separati da punti
-
-- @EricaAcire19: IPv4 http://t.co/TomPlEXwbL...
-
-- @FabioVallone: Tramite l'indirizzo IP si identifica un solo PC nella
-  rete. Va aggiunto all'Header per far arrivare i dati al destinatario
-
-- @DavidePalermo2: IPv4 su wikipedia http://t.co/C9JJBz4ahd
-
-- @DavidePalermo2: IPv4 http://t.co/C9JJBz4ahd
-
-- @FabioVallone: viaggio dei pacchetti: pacchetto va al gateway.
-  L'indirizzo viene letto e il pacchetto viene mandato al nodo successivo
-
-- @Rexsimo893: IP-invio dati: dati binari divisi in pacchetti +
-  intestazione (indirizzo IP destinatario)
-
-- @DavidePalermo2: Pacchetto -&gt; Pacco della Posta Gateway -&gt; Ufficio
-  Postale e centro di smistamento Vie e scelta Nodo -&gt; il postino in
-  moto
-
-- @RivoluzDigitale: Tabelle di instradamento: dicono per ogni nodo su
-  quale link di uscita mandare pacchetto in base a indirizzo destinazione
-
-- @FabioVallone: Ogni singolo nodo ha solo la visibilità sul nodo
-  successivo
-
-- @RivoluzDigitale: by the way, chiariamo eh: ogni nodo ha la sua tabella
-  di indirizzamento
-
-- @EmaParrinello: I dati una volta impacchettati vengono smistati e
-  indirizzati su ciascun nodo mediante dell tabelle di instradamento
-
-- @FabioVallone: Ogni Computer può essere configurato per diventare un
-  nodo di una rete. Nella realtà lo smistamento è fatto dai router
-
-- @EricaAcire19: Qualunque computer può essere un nodo che smista i
-  pacchetti (se avesse più linee in uscita)
-
-- @LolloCler: i "router", instradatori,smistano i pacchetti dati in pochi
-  [micro] secondi!
-
-- @RivoluzDigitale: qualunque computer puo`, in linea di principio,
-  instradare pacchetti, ma [...]
-
-- @Clerish: Piccola curiosità: gli indirizzi IPv4 sono quasi finiti.
-  Entro pochi anni i nuovi siti avranno tutti indirizzi IPv6
-
-- @RivoluzDigitale: [...] dentro la rete ci sono macchine specializzate,
-  chiamate router, che instradano pacchetti in modo molto efficiente
-
-- @DavidePalermo2: La rete di nodi è come l'autostrada con i caselli
-  autostradali decidi dove uscire in base alle esigenze come i pacchetti!
-
-  [@bassosimone: non esattamente, nel senso che tu (= il pacchetto) non
-   decidi proprio nulla, ma e' la rete che ti instrada in base a dove
-   tu dici che vuoi andare.]
-
-- @FabioVallone: Il comando "traceroute ..." messo in qualunque terminale
-  serve per sapere quanti nodi servono per arrivare a destinazione
-
-- @LolloCler: i #router ora sono così potenti da poter sbirciare nei
-  pacchetti dati ["deep packet inspection"]
-
-- @RivoluzDigitale: principio di base di Internet: "best effort": nessuna
-  garanzia per nessuno
-
-- @FabioVallone: Può capitare che alcuni pacchetti vengano persi durante
-  il "trasporto"
-
-- @LolloCler: "neutralità della rete",ovvero tutti i flussi sono uguali
-  per il router!
-
-- @RivoluzDigitale: neutralita` della rete: tutti i pacchetti sono
-  trattati allo stesso modo indip. da cosa trasportano
-
-- @Ale_Cannone: neutralità della rete: i nodi guardano solo la
-  destinazione e trattano tutti i pacchetti allo stesso modo
-
-- @RivoluzDigitale: [...] dal mittente, dal destinatario, dal dispositivo
-  e dall'applicazione
-
-- @ripa_pepperipa: neutralità della rete = tutti i flussi di pacchetti
-  sono uguali indipendentemente dal mittente, mezzo, contenuto etc...
-
-- @FabioVallone: By the way, su Windows il comando è "tracert ..."
-
-- @EnricoBello20: "Best effort" e "Neutralità della rete": esiste una
-  specie di Costituzione di Internet che afferma tali principi?
-
-- @RivoluzDigitale: economicamente e' perfettamente razionale che un
-  operatore si accordi con altri attori per trattamento preferenziale
-
-- @RivoluzDigitale: ma se gli operatori hanno la facolta` di fare questi
-  accordi, Internet diventa un'altra cosa [molto meno generativa]
-
-- @FlavioGiobergia: Cappuccetto rosso - Storia di un pacchetto perduto
-  http://t.co/M8msW8s2dD
-
-- @FabioVallone: Olanda e Slovenia hanno fatto delle leggi per difendere
-  il principio di neutralità della rete
-
-- @DavidePalermo2: MEMENTO Come funziona Internet? http://t.co/j2OqAEZuGU
-
-- @EnricoBello20: Come funziona Internet: http://t.co/9hqYa5GDHt
-
-- @GiGirgenti: Prossima lezione:chi governa internet? Chi prende le
-  decisioni?
+- Prossima lezione: chi governa internet? Chi prende le decisioni?
 
 ### @bassosimone
 
-- @SabryKarate: FAQ: Frequently Asked Questions
+- FAQ: “Frequently Asked Questions”(foto di @bassosimone by
+v@SabryKarate: http://t.co/QqHMN0lHBo)
 
-- @SabryKarate: @bassosimone time nella lezione di http://t.co/QqHMN0lHBo
+- Titolo dei post: deve essere chiaro, ma non "eccessivamente"
+descrittivo. Sarebbe gradito un tocco di originalità.
 
-- @Clerish: Quanti di voi cari colleghi non sapeva cosa significa FAQ?
-  Ormai si dovrebbe trovare nei dizionari... @RivoluzDigitale
+- Importante nei post è anche dare il proprio contributo alla comunità,
+nel senso che scrivere un post critico che si basa su cinque fonti e
+aggiungere la propria esperienza personale è decisamente più  utile
+di riassumere un articolo di Wikipedia.
 
-- @Ale_Cannone: Titolo può essere fatto in 3 modi: può essere [1] poco
-  chiaro, [2] puo` descrivere il post, [3] ma è meglio un titolo "bello"
+- Reminder: Fonti meglio dentro al testo, invece che in fondo. Inserire
+la caption delle immagini.
 
-- @SabryKarate: Titolo: deve essere chiaro, ma non "eccessivamente"
-  descrittivo. Sarebbe gradito un tocco di originalità.
 
-- @Ale_Cannone: importante nei post è anche dare il proprio contributo
-  alla comunità
 
-  [@bassosimone: nel senso che se scrivete un post critico che si basa su
-   cinque fonti e aggiunge la vostra esperienza personale questo e' piu`
-   utile di riassumere un articolo di Wikipedia]
+## 2013-04-26
 
-- @SabryKarate: Reminder: Fonti meglio dentro al testo, invece che in
-  fondo. Inserire la caption delle immagini.
+### @demartin
+
+- @SabryKarate: E' apprezzata, anche per nostra utilità, la
+live-tweeting della lezione, scrivendo una frase rappresentativa e
+l'hashtag …
+
+- @stufi93: Inizio live tweeting RivoluzDigitale
+
+- @SabryKarate: Non c'è un determinismo tecnologico, la società
+ed il contesto storico influenzano la nascita e diffusione delle
+invenzion…
+
+- @a_loffreda: Noi oggi siamo nella fase della "diffusione di
+internet" RivoluzDigitale
+
+- @EricaAcire19: Competenza scientifica=&gt; idea=&gt; invenzione=&gt;
+necessità sociale &amp;&amp; soppressione del potenziale radicale=&…
+
+- @stufi93: La società influenza la diffusione di nuove tecnologie
+RivoluzDigitale
+
+- @RivoluzDigitale: MT "@stufi93 Computer e internet, quali differenze
+a quali paralleli con telegrafo, radio, telefono, TV, etc...?
+RivoluzDigitale"
+
+- @LucaLiuzzi: Le tecnologie in passato sono state strettamente
+centralizzate.Con il computer e internet le cose cambiano.
+RivoluzDi…
+
+- @FabioBussi: Con i computer e internet le regole del gioco non
+cambiano RivoluzDigitale
+
+- @LorenzoCutelle: Iter seguito pressapoco da tutte le tecnologie,
+compresi computer e internet! RivoluzDigitale http://t.co/d8swx4ypNJ
+
+- @RivoluzDigitale: @LorenzoCutelle bravo!
+
+- @stufi93: Computer e calcolatori elettronici sono differenti.
+I primi calcolatori meccanici risalgono al '600 RivoluzDigitale
+
+- @russomatteo93: Calcolatore: macchina per fare calcoli
+rivoluzdigitale
+
+- @Ale_Cannone: rivoluzdigitale calcolatore: macchina meccanicha
+per fare calcoli
+
+- @a_loffreda: per parlare di computer bisogna prima parlare del
+calcolatore, di cui si comincia a parlare nel XVII secolo RivoluzDigitale
+
+- @ripa_pepperipa: RivoluzDigitale: I primi calcolatori, intesi
+come macchine per fare calcoli, risalgono al '600
+
+- @MorenoLaQuatra: Pascal e il primo calcolatore del 1600, anni
+della prima rivoluzione scientifica RivoluzDigitale
+
+- @RivoluzDigitale: MT "@a_loffreda Una delle prime necessità sociali
+proviene dal fatto che fare calcoli è noioso RivoluzDigitale"
+
+- @a_loffreda: Una delle prime necessità proviene dal fatto che
+fare calcoli è noioso RivoluzDigitale
+
+- @SabryKarate: Nascono nel Seicento i calcolatori per "evitare
+il tedio di fare calcoli" RivoluzDigitale
+
+- @russomatteo93: Nepier introduce le tavole dei logaritmi nel
+1615 rivoluzdigitale
+
+- @LucaLiuzzi: Cos'è un computer?I primi calcolatori nel 600 con
+Pascal. RivoluzDigitale
+
+- @RivoluzDigitale: P.S. MT = modified tweet
+
+- @a_loffreda: Gli antenati??? Pascal e Leibniz! RivoluzDigitale
+
+- @russomatteo93: Pascal e Leibniz inventano macchine per fare
+calcoli che vengono usate fino al'800 rivoluzdigitale
+
+- @stufi93: Nel 1805 il telaio di Jacquard utilizza la scheda
+perforata RivoluzDigitale
+
+- @EricaAcire19: 1805 telaio di Jacquard con schede perforate.
+RivoluzDigitale
+
+- @MorenoLaQuatra: 1805, primo utilizzo di schede perforate con
+il Telaio di Jaquard RivoluzDigitale
+
+- @EmaParrinello: 1805..nel talaio di Jacquard vengono usate per
+la prima volta le schede perforate rivoluzdigitale
+
+- @SabryKarate: Nell'Ottocento, necessità di migliori calcoli
+delle tavole nautiche in Inghilterra RivoluzDigitale
+
+- @LucaLiuzzi: I primi calcolatori erano meccanici.Gli sviluppi
+applicativi erano nel campo industriale. RivoluzDigitale
+
+- @SoFranchy: All'inizio dell'800 si arriva a telai di Jacquard:
+usano schede perforate. Interesse inglese per calcolare tavole
+nautiche …
+
+- @ripa_pepperipa: RivoluzDigitale: nel 1805---&gt; Telaio di
+Jacquard (schede perforate)
+
+- @EricaAcire19: Boole chiarisce che i simboli usati non sono
+rappresentano per forza numeri, ma qualunque cosa riconducibile poi
+dei nume…
+
+- @LucaLiuzzi: George Boole (1815-1864) formalizza la logica
+umana con un metodo matematico.RivoluzDigitale
+
+- @stufi93: La logica booleana utilizzata oggi dai compiler viene
+sviluppata successivamente alla logica algebrica RivoluzDigitale
+
+- @bassosimone: Babbage: "I'm not able to apprehend the kind of
+confusion that could provoke such a question." RivoluzDigitale
+http://t.c…
+
+- @stufi93: Nel 1854 "the laws of thought" di Boole da inizio
+alla logica algebrica
+
+- @russomatteo93: George Boole 1854 scrive "The Laws of Throught"
+=&gt; logica algebrica da cui viene sviluppata la logica booleana
+rivol…
+
+- @EmaParrinello: La logica booleana in realtà è stata sviluppata
+dai successori di Boole rivoluzdigitale
+
+- @FabioVallone: RivoluzDigitale nel 1854 Boole pubblica un libro
+chiamato "The Laws of Thaught" che riguarda la logica algebrica
+
+- @EmaParrinello: Il computer si differenzia dal calcolatore
+perchè è in grado di manipolare non solo numeri ma simbolirivoluzdigitale
+
+- @stufi93: Il passaggio avviene quando non si cercano più
+macchine per fare solo calcoli ma macchine che elaborino simboli
+RivoluzDigita…
+
+- @FabioVallone: Il passaggio successivo è di creare computer
+che non manipola solo numeri ma anche dei simboli RivoluzDigitale
+
+- @a_loffreda: Il passaggio successivo è quello di poter manipolare
+dei simboli RivoluzDigitale
+
+- @stufi93: Babbage fu invitato a Torino all'accademia delle
+scienze per presentare la sua macchina RivoluzDigitale
+
+- @stufi93: Babbage vuole calcolare funzioni polinomiali molto
+velocemente e con precisione RivoluzDigitale
+
+- @SabryKarate: Charles Babbage creò un calcolatore puramente
+meccanico, il Difference Engine: calcolo funzioni polinomiali
+RivoluzDigita…
+
+- @a_loffreda: Charles Babbage (1791-1871) presenta la sua
+macchina a Torino RivoluzDigitale
+
+- @LucaLiuzzi: Charles Babbage (1791-1871).La sua prima creatura
+è il Difference Engine per calcolare funzioni polinomiali.
+RivoluzDigita…
+
+- @SimoneBleynat: Da Boole a Turing: i simboli iniziano ad essere
+associati a informazioni rappresentabili con numeri RivoluzDigitale
+
+- @StefanoFranz20: Charles Babbage(1792-1871) la sua prima
+creazione fu il "difference engine" del 1822  rivoluzdigitale
+
+- @russomatteo93: Charles Babbage progetta la "Difference Engine"
+(1822) che effettua calcoli di funzioni polimoniali (non fu mai
+costruit…
+
+- @a_loffreda: Babbage scrive il  "Difference Engine" (1822)
+ideaizza un calcolatore per funzioni polinomiali RivoluzDigitale
+
+- @ripa_pepperipa: RivoluzDigitale: l'obiettivo di Charles Babbage
+era di creare una macchina in grado di calcolare funzioni polinomiali.
+
+- @SabryKarate: Poi Babbage ideò l'Analytical Engine, calcolatore
+general pourpose, programmabile con schede perforate RivoluzDigitale
+
+- @a_loffreda: Successivamente Babbage propone il "Analitic
+Engine"  primo calcolatore general-purpose, programmabile con schede
+perforate…
+
+- @stufi93: Babbage idealizza anche l'Analytical Engine, calcolatore
+general-purpose programmabile con schede perforate RivoluzDigitale
+
+- @FabioVallone: La macchina di Babbage chiamata Difference
+Engine per calcoli polinomiali fu costruita tardi a causa della sua
+complessit…
+
+- @LucaLiuzzi: Analytical Engine.la seconda creazione di
+Bubbage.Programmabile con schede perforate (quindi general purpose).
+RivoluzDigi…
+
+- @EricaAcire19: Analytical Engine, general-purpose, schede
+perforabili, controllo sequenziale, branching (if, else), looping.
+RivoluzDig…
+
+- @bassosimone: RivoluzDigitale Analytical engine: fondamentale
+la distinzione tra dati e programma
+
+- @a_loffreda: Un calcolatore "general-purpose"  è un calcolatore
+riprogrammabile dall'utente dedicato a una sola applicazione
+RivoluzDig…
+
+- @stufi93: Il vantaggio erano: controllo sequenziale, looping,
+branching. La novità era la distinzione netta tra dati e istruzioni
+Rivol…
+
+- @russomatteo93: Con l'Analitical Engine si ha una distinzione
+netta tra dati e istruzioni rivoluzdigitale
+
+- @FabioVallone: Le caratteristiche di Analiytical Engine sono:
+Programmabile Controllo seq. branching, looping, distinzione
+dati-istruzio…
+
+- @RivoluzDigitale: @StefanoFranz20 usa RivoluzDigitale non
+@RivoluzDigitale
+
+- @RivoluzDigitale: @stufi93 non sono sicuro si possa dire elettroniche;
+meglio elettrico + schede perforate
+
+- @Ale_Cannone: rivoluzdigitale 1936: Alan Turing pubblica un
+articolo "On computable numbers"
+
+- @RivoluzDigitale: @stufi93 sono andato a cercare su Wikipedia,
+dice che l'elettronica si sviluppa dopo WWI con le valvole e la
+radio (http://t.co/NeJ8bKZo17)
+
+- @RivoluzDigitale: @StefanoFranz20 no problem ;-)
+
+- @FabioVallone: Negli anni '30 con la parola computer si intendeva
+una persona  fisica che fa calcoli a mano per scopi balistici
+Rivoluz…
+
+- @FabioVallone: Nessuno prima di Turing aveva pensato una
+macchina che reagisca in modo diverso a secondo dello stato dei
+dati che legge …
+
+- @RivoluzDigitale: @EricaAcire19 Turing :-)
+
+- @SabryKarate: Turing immagina una maccjina che esegue istruzioni
+elementari leggendo dati ed istruzioni in sequenza su base del suo
+stat…
+
+- @SabryKarate: Nuova necessità sociale:  Seconda Guerra Mondiale,
+nel 1940 necessità di tavole balistiche per l'esercito americano
+Rivol…
+
+- @SabryKarate: Claude Shannon inventa la TEORIA DELL'INFORMAZIONE
+RivoluzDigitale
+
+- @EricaAcire19: Claude Shannon, matematico , inventa teoria
+dell’informazione. rivoluzDigitale
+
+- @stufi93: Viene inventata "la teoria dell'informazione" da
+Claude Shannon RivoluzDigitale
+
+- @RivoluzDigitale: @FabioVallone Shannon
+
+- @Rexsimo893: Nuova necessità sociale per il computer dopo la
+guerra: 1948 bomba H e guerra fredda RivoluzDigitale
+
+- @EricaAcire19: Finisce WW II, il computer si sviluppano molto
+per calcoli bomba a H (motivi di sicurezza nazionale, guerra fredda).
+Riv…
+
+- @FabioVallone: Nella MIT fanno un gruppo di ricerca interdisciplinare
+per riuscire a sviluppare armi più sofisticate RivoluzDigitale
+
+- @stufi93: Nasce il Laboratorio Radar presso l'MIT, formato da
+gruppi interdisciplinari. Ottengono risultati straordinari
+RivoluzDigitale
+
+- @FabioVallone: Dopo l'esperienza della MIT si diffondo in tutta
+l'America gruppi di studi interdisciplinare RivoluzDigitale
+
+- @stufi93: RAD LAB http://t.co/rhwbfTzB80  RivoluzDigitale
+
+- @SabryKarate: Norbert Wiener, inventore della cibernetica
+RivoluzDigitale
+
+- @FabioVallone: Norbert Wierner fa un sistema di puntamento in
+cui c'è un modello matematico che prende in considerazione anche
+l'uomo. …
+
+- @FabioVallone: Con l'espperienza di wierner si pongono le basi
+della cibernetica (rapporto uomo-macchina-società) RivoluzDigitale
+
+- @giuli93: Norbert Wiener crea un nuovo campo di ricerca: la
+Cibernetica RivoluzDigitale
+
+- @CaracciFabio: RivoluzDigitale  Norbert Wiener fondatore della
+cibernetica
+
+- @ripa_pepperipa: RivoluzDigitale: Norbert Wiener inaugura una
+riflessione tra macchina, uomo e società!
+
+- @SabryKarate: Inizialmente i computer si presentano come
+Mainframe, grossi, difficili da usare e costosi RivoluzDigitale
+
+- @FabioVallone: Anni '40- '60 il computer si diffonde com
+MainFrame = Grossi, costosi, difficili da usare RivoluzDigitale
+
+- @stufi93: Negli anni '40-'60 il computer si diffonde come
+Mainframe. Computer molto potenti, grossi e costosi RivoluzDigitale
+
+- @ripa_pepperipa: RivoluzDigitale: Mainframe = computer molto
+potente, grosso, costoso e difficile da usare!
+
+- @stufi93: Mainframe difficile da usare, era possibile averne
+di più piccoli e meno potenti, ma vengono rifiutati per definizione
+Rivolu…
+
+- @FabioVallone: I mainframe sono stati fatti grossi e costosi
+per scelta. In questo modo se lo potevano permettere solo grandi
+aziende R…
+
+- @stufi93: "Insegniamo a programmare a tutti" frase status
+RivoluzDigitale
+
+- @FabioVallone: I MainFrame fu difficile da utilizzare in modo
+da tenere la possibilità di utilizzo solo in una stretta cerchia
+di person…
+
+- @EricaAcire19: ingegneri scrivono in binario,si oppongono ai
+linguaggi di programmazione, le competenze rimangono nel loro
+circoloRivol…
+
+- @bassosimone: RivoluzDigitale: a proposito di programmare sul
+"nudo metallo" :-) - http://t.co/4pbshpC1Vl
+
+- @FabioVallone: Le caratteristiche dei MainFrame hanno contribuito
+a tenere tale tecnologia poco sviluppata RivoluzDigitale
+
+- @LucaLiuzzi: Anni '40 e '60.La decisione di programmare in
+binario implica la non accessibilità alla tecnologia per molti.
+RivoluzDigit…
+
+- @EricaAcire19: La prima tecnologia per costruire i computer
+sono le valvole, poi transistor discreti e poi circuiti integrati.
+RivoluzD…
+
+- @FabioVallone: Tecnologie dei computer: Valvole -&gt; Transistor
+-&gt; Circuito integrato (+ transistor assieme) -&gt; Microprocessore
+…
+
+- @SimoneBleynat: In Estonia si insegna a programmare ai bambini,
+antitesi rispetto all'approccio degli anni '40-'60 RivoluzDigitale
+
+- @stufi93: Dal punto di vista tecnologico le innovazioni sono
+le valvole, sostituite dai transistor, rimpiazzati da circuiti
+integrati R…
+
+- @FabioVallone: IBM rimane sempre un passo indietro nelle
+tecnologie dei pc, in quanto continua a vendere le vecchie tecnologie
+RivoluzD…
+
+- @SabryKarate: Microprocessore: unisce ALU e CPU RivoluzDigitale
+
+- @stufi93: L'ultimo step sono i microprocessori, che costituiscono
+i computer di oggi! RivoluzDigitale
+
+- @stufi93: I microprocessori inglobavano le unità logiche
+aritmetiche (ALU) RivoluzDigitale
+
+- @FabioVallone: Con lo sviluppo dei circuiti integrati si iniziò
+a produrre macchine calcolatrici per uso "personale" RivoluzDigitale
+
+- @stufi93: RAM, ROM Input e Output vengono inglobato in un unico
+circuito integrato RivoluzDigitale
+
+- @EricaAcire19: Com’è nato il microprocessore? Necessità:
+calcolatrice portabile con RAM, ROM, I/O, microprocessore (ALU+registri),
+1969 …
+
+- @Ale_Cannone: rivoluzdigitale necessità sociale del microprocessore:
+la portabilità dei calcolatori che cosí venivano utilizzati anche
+…
+
+- @StefanoFranz20: Intel Fondata da Gordon Moore famoso per la
+legge sull'evoluzione del numero di transistor integrati nei
+microprocessor…
+
+- @stufi93: 1969 sono 4 anni che in USA gli studenti protestano
+contro il computer, oggetto considerato del sistema RivoluzDigitale
+
+- @EricaAcire19: Gli studenti del 1969 criticano il computer
+come parte del sistema rivoluzDigitale
+
+- @stufi93: Gli studenti girano con al collo una scheda perforata
+esclamando "io non sono un numero" RivoluzDigitale
+
+- @FabioVallone: Gli studenti degli anni '60 vedono nel computer
+il simbolo del "sistema" e perciò la criticano RivoluzDigitale
+
+- @RivoluzDigitale: RivoluzDigitale: idea di strumento di calcolo
+a disposizione dell'individuo, e non del sistema.
+
+- @FabioVallone: Si inizia ad avere il desiderio per un computer
+(come altri strumenti) al servizio dell'individuo RivoluzDigitale
+
+- @StefanoFranz20: Uno dei primi personal computer Olivetti P101
+anno 1966 RivoluzDigitale http://t.co/2CiD67M9yS
+
+- @FabioVallone: S. Brand fa "The Whole Earth Catalogue" in cui
+ci sono tutti gli strumenti personali. Tra questi c'è anche il
+computer R…
+
+- @stufi93: "the whole earth catalogue" by Stewart Brand è una
+raccolta di strumenti personali e ne pubblicizza l'utilizzo
+
+- @FabioVallone: S. Brand fa "The Whole Earth Catalogue" in cui ci
+sono tutti gli strumenti personali. Tra questi c'è anche il computer
+
+- @stufi93: "Desidero uno strumenti per esprimermi, per fare ciò
+che voglio" - nuova mentalità 
+
+- @stefano_bitto: Per chi fosse interessato al programma 101 Olivetti
+--&gt; http://t.co/HNUCCmn5tE 
+
+- @FabioVallone: Ivan Illich parla della "convivialità". Si immagina
+strumenti che sono al servizio dell'uomo per realizzare i suoi
+desideri 
+
+- @EricaAcire19: Ivan Illich immagina strumenti al servizio dell’uomo
+per realizzare i suoi desideri di convivialità. 
+
+- @SabryKarate: Ivan Illich immagina strumenti conviviali: macchine
+al servizio dell'uomo (e non viceversa) 
+
+- @stufi93: Ivan Illich si immagina strumenti conviviali che siano
+al servizio dell'uomo, e non viceversa 
+
+- @FabioVallone: Strumenti conviviali = macchine al servizio dell'uomo
+( e non viceversa ) 
+
+- @EricaAcire19: In pochi anni il prezzo di un microprocessore
+crolla. #rivoluzDigitale
+
+- @FabioVallone: Nel giro di pochi anni il costo dei microprocessori
+si abbassa notevolmente, permettendo la diffusione dei calcolatori
+
+
+- @StefanoFranz20: l'uscita di microprocessori economici ha permesso
+la diffusione di massa di congegni elettronici 
+
+- @stufi93: Nuovo contesto culturale + microprocessori sempre più
+economici = aziende amatoriali iniziano ad assemblare computer
+
+- @FabioVallone: Altair fu un'azienda che permise di costruire i
+pc a casa propria tramite l'invio dei pezzi necessari e a bassi
+costi 
+
+- @SimoneBleynat: Rimane il classico dubbio: sono le macchine al
+nostro servizio o siamo noi ad essere al servizio delle macchine?
+
+- @stufi93: In questo clima culturale Steve Jobs e Steve Wozniak
+@stevewoz fondano la Apple in un garage 
+
+- @FabioVallone: I primi Hacker nacquero nell'ambito della telefonia
+
+- @SimoneBleynat: "Mai fidarsi di un computer che non si può gettare
+dalla finestra" cit. #SteveWozniak 
+
+- @SabryKarate: Apple venne fondata da Steve Jobs, Steve Wozniak e
+Ronald Wayne nel 1976, a Cupertino, nella Silicon Valley, in
+California 
+
+- @FabioVallone: Tramite un fischietto si poteva far entrare la
+centrale dei telefoni in modalità libera, riuscendo a fare telefonate
+gratis 
+
+- @FlavioGiobergia: E si parla di Captain Crunch a 
+:-) E comunque son 2600Hz, non 2400
+
+- @Rexsimo893: Telefonate gratuite utilizzando un fischietto nelle
+confezioni dei cereali 
+
+- @stufi93: I primi hacker nascono dalla rete telefonica 
+
+- @FabioVallone: Cereali del fischietto "magico" per le telefonate!!
+http://t.co/4djqbKphvL 
+
+- @EricaAcire19: Reintrodotto diritto al fare la birra in casa dopo
+protezionismo, con lo stesso clima s’iniziano a costruire computer
+DIY #rivoluzDigitale
+
+- @stufi93: Jobs e Wozniak intuiscono che il computer deve essere
+una macchina intuitiva e accessibile a tutti 
+
+- @stufi93: Questa filosofia farà la fortuna della Apple 
+#apple
+
+- @FabioVallone: Apple 2 come macchina conviviale? 
+
+- @EricaAcire19: Apple II come macchina conviviale? #rivoluzDigitale
+
+- @StefanoFranz20: Oltre ad essere il primo pc prodotto da Apple
+fu anche il primo ad avere successo industriale 
+http://t.co/LeNEdumlnu
+
+- @FabioVallone: Jobs + Wozniak = Apple 
+
+- @stufi93: L'Apple II viene considerato come macchina conviviale
+
+- @FabioVallone: Dietro a Jobs e Wozniak ci fu qualcuno che finanziò
+il progetto Apple e ne rese possibile lo sviluppo 
+
+- @stufi93: Wozniak e Jobs sono riuscì a creare un'azienda così
+giovani grazie ad un contesto culturale che glielo ha permesso
+
+- @EricaAcire19: Un’azienda non è solo l’idea, ma anche immagine,
+gestione azienda, etc. #rivoluzDigitale
+
+- @SimoneBleynat: NB: #BillGates e #SteveJobs non hanno fatto fortuna
+dal niente: c'era chi staccava gli assegni dietro di loro
+
+- @FabioVallone: I micro computer diventano mini computer e infine
+Personal Computer 
+
+- @SabryKarate: Mainframe - Minicomputer - Microcomputer - Personal
+computer 
+
+- @stefano_bitto: A Stanford negli anni '60 ci si chiede come
+utilizzare i computer a scopo educativo. In Italia si comincia nel
+2010 
+
+- @stufi93: Dai mini computer si passa ai micro computer per poi
+arrivare ai personal computer! L'evoluzione correva veloce
+
+- @FabioVallone: Personal Computer = per l'individuo 
+
+- @SabryKarate: Il computer diventa meno costoso e può anche essere
+utilizzato da personale non specializzato 
+
+- @ripa_pepperipa: : Gli studenti degli anni '60
+vedevano il computer come una macchina fondamentale per il controllo
+sociale!
+
+- @Ale_Cannone:  sono il contesto favorevole e i
+30 anni di cultura del computer che danno il via alla nascita di
+aziende come Apple
+
+- @stufi93: "Perché non abbiamo nessuna foto della terra nella sua
+interezza"Frase che contribuirà alla nascita del think ambientalista
+
+- @SabryKarate: The Whole Earth Catalog: http://t.co/JXpGAmtDnf
+
+- @stufi93: Wozniak da gli schemi hardware dei computer Apple,
+ritenuti accessibili a tutti 
+
+- @stufi93: L'IBM compra il software da un ragazzo chiamato Bill
+Gates 
+
+- @FabioVallone: modello fondamentale PC: io compro Hardware
+conoscibile, Sistema Operativo e gli applicativi 
+
+- @stefano_bitto: Chi era colui che si era chiesto perché non si
+possedeva nessuna foto delle Terra? 
+
+- @stufi93: Viene presa una decisione fondamentale: compri il
+pacchetto hardware+software e puoi installarci sopra tutti i programmi
+
+- @FabioVallone: La filosofia è:"Compri l'Hardware con Sistema
+Operativo e fai girare qualsiasi applicativo che sia stato scritto
+per esso" 
+
+- @EricaAcire19: si compra hardware+sistema operativo, e poi si fa
+girare tutto il software che si vuole (Apple non è più così con
+IOS/OSX). 
+
+- @stufi93: Oggi per la Apple non è più così: su iDevices si possono
+installare solo applicazioni provenienti dall'App Store 
+
+- @FabioVallone: Con lo sviluppo dell'Open Source Linux, ci fù la
+disacoppiazione tra hardware e software 
+
+- @stefano_bitto: @bassosimone Grazie :-)
+
+- @stufi93: L'aspetto negativo è il lato sicurezza: inizia la
+diffusione di virus e malware 
+
+- @FabioVallone: Il lato negativo dell'Open Software è la sicurezza:posso
+installare software con intenti maliziosi,virus senza volerlo
+
+- @stufi93: L'aspetto positivo è la libertà dell'utente 
+
+- @SabryKarate: La libertà negli applicativi ha aspetti - Negativi:
+sicurezza, virus,... - Positivi: libertà dell'utente 
+
+- @stufi93: Fine live tweeting, il treno mi attende 
+
+- @CaracciFabio: La apple vuole mantenere il controllo sulle
+applicazioni installabili limitando chiaramente la libertà degli
+utenti 
+
+- @FabioVallone: Lati positivi Open Software: Libertà utente,
+generatività (Johnaatan Zittrain) ovvero chiunque può programmare
+
+- @FabioVallone: La prima applicazione di successo ("Killer
+application") fu il fogli di calcolo(VisiCalc) ma anche Word
+Processing 
+
+- @SabryKarate: Prima applicazione di successo il foglio di calcolo
+(Visi Calc) ma anche word processing 
+
+- @FabioVallone: Il Word Processing sul PC è molto più flessibile
+rispetto alla macchina da scrivere elettrica 
+
+- @FabioVallone: Piattaforme mobile attuali: i gatekeeper sono Apple
+e Google che decidono cosa può girare sui dispositivi 
+
+- @SabryKarate: Piattaforma mobile attuali: specchio di come poteva
+nascere il computer 
+
+- @FabioVallone: General Purpose Computer = Computer costruiti per
+un uso non specifico 
+
+- @SabryKarate: Sistema operativo:  MS-DOS e poi Windows per PC IBM
+MAC OS per Apple 
+
+- @EricaAcire19: -MS-DOS e poi Windows per PC-IBM.  -MAC OS per
+Apple #rivoluzDigitale
+
+- @Ale_Cannone:  ms-dos e poi windows per IBM mentre
+mac os per Apple
+
+- @ripa_pepperipa: : I gatekeeper sono Apple e
+Google che decidono cosa può girare sui dispositivi!
+
+- @FabioVallone: Sistemi Operativi: MS-DOS e poi Windows per PC
+IBM; MAC OS per Apple; Linux per tutto... (software libero)
+
+- @conwused: @bassosimone mi hanno detto che sono due persone
+diverse, peccato.
+
+- @LorenzoCutelle: MC-DOC (poi Windows) per PC IBM, MAC OS per
+Apple, LINUX per tutti! 
+
+- @FabioVallone: Linus Torvald crea "Linux" un sistema operativo
+molto flessibile perchè si adatta a qualsiasi hardware con
+microprocessore 
+
+- @ripa_pepperipa: : con Linux la libertà incrementa
+esponenzialmente!
+
+- @SabryKarate: All'inizio i computer sono però isolati tra di loro,
+non hanno un legame 
+
+- @EricaAcire19: Questi computer si diffondono con lentezza, lunga
+campagna pubblicitaria, ma per lungo periodo sono sconnessi fra
+loro. #rivoluzDigitale
+
+- @FabioVallone: Per un lungo periodo i computer rimasero "sconnessi"
+tra loro(erano come le macchine da scrivere in quanto erano "isolati")
+
+- @FabioVallone: L'idea del Networking nasce quasi subito dopo
+l'invenzione dei computer 
+
+- @EricaAcire19: il networking (come idea) nasce con i primi
+computer... #rivoluzDigitale
+
+- @SabryKarate: Networking: idea nasce presto, per interconnettere
+i computer 
+
+- @Ale_Cannone:  L'idea del networking nasce quasi
+subito dopo l'invenzione del PC
+
+- @SabryKarate: Internet è nato per connettere tra di loro i Mainframe
+
+- @FabioVallone: Internet è nata per connettere i MainFrame tra
+loro, ma poi venne utilizzate anche per interconnettere i PC tra
+loro 
+
+- @EricaAcire19: Quando s’intersecano il networking e i milioni di
+computer presenti , si può parlare di rivoluzione digitale.
+#rivoluzDigitale
+
+- @SabryKarate: Rivoluzione digitale: negli ultimi 10 anni, in
+seguito a nuovi dispositivi digitali interconnessi tra di loro
+
+- @Ale_Cannone:  quando si parla di dispositivi
+interconnessi tra loro si può parlare di rivoluzione digitale
+
+
+## 2013-04-24
+
+### @demartin
+
+- @RivoluzDigitale: Modello iniziale per la radio: separazione tra
+chi trasmette e chi produce contenuti
+
+- @RivoluzDigitale: @DavidePalermo2 and I'm not live-tweeting the
+lecture :-P
+
+- @RivoluzDigitale: : si afferma invece uno schema per cui il
+broadcaster decide il palinsesto
+
+- @RivoluzDigitale: : quando si afferma la radio, anni '20 e '30,
+il business era vendere l'apparecchio radio
+
+- @RivoluzDigitale: Due modelli: USA (privato, "gratuito", e con
+pubblicita`) vs. Europa (pubblico, su modello di poste, telegrafo,
+radio, ...)
+
+- @RivoluzDigitale: : Radio, modello Europeo, per tutelare servizio
+pubblico si decise di usare il "canone" - una tassa di scopo
+
+- @RivoluzDigitale: : il modello iniziale per la radio era zero
+pubblicita` (confine molto netto tra servizio pubblico e commerciale)
+
+- @RivoluzDigitale: : la BBC per diversi anni non puo` leggere
+notizie (conflitto tra radio e giornali)
+
+- @RivoluzDigitale: : interventi regolatorio (e.g. impedire a BBC
+di leggere notizie) puo` definire chi vince e chi perde sul mercato
+
+- @Gioco_Azzardato: L'intervento statale ha condizionato l'uso di
+poste, radio e televisione; chissà che impatto avrà sul gioco
+d'azzar…
+
+- @RivoluzDigitale:  dal 1927 la TV sarebbe pronta ma non decolla;
+la FCC rallenta processo di diffusione della TV (scusa: decidere
+standard)
+
+- @RivoluzDigitale: All'inizio della storia della radio, tra le due
+guerre, contrasto tra radio FM (scoperta troppo presto) e radio AM
+
+- @SabryKarate: Con la Seconda Guerra Mondiale c'è una massiccia
+produzione di armi, si sviluppano elettronica e radar
+
+- @RivoluzDigitale: Dopo WWII: fabbriche di elettronica, lavoratori
+qualificati, eta` del consumo =&gt; decolla la TV
+
+- @RivoluzDigitale:  - la TV segue il modello della radio (i.e. US
+market e Europa pubblico)
+
+- @RivoluzDigitale:  - Radio &amp; TV: modello di allocazione statica
+delle frequenze (una frequenza, uno specifico utilizzo)
+
+- @RivoluzDigitale:  - una frequenza viene data in licenza (con
+asta) dallo Stato a un privato, e non si puo` sublicenziare
+
+- @RivoluzDigitale: All'inizio il modello non era quello delle aste,
+c'era una concessione da parte dello Stato (prima asta in ITA nel
+2000)
+
+- @RivoluzDigitale:  - Recap frequenze: licenze per un periodo di
+tempo limitato, date per uno specifico uso a una specifica entita`
+
+- @RivoluzDigitale: Fine anni '60, USA: comunita` rurali non ricevono
+segnale TV, persone ordinarie portano segnale a casa via cavo coax
+
+- @SabryKarate: Fine anni '60, nascita della TV via cavo: per portare
+anche nelle zone rurali le trasmissioni televisive
+
+- @RivoluzDigitale: : i broadcasters si lamentano: "questi col cavo
+coax ci stanno piratando il segnale"
+
+- @RivoluzDigitale: : coax: non appena si esce dall'amatoriale e
+nascono aziende, si comincia a dire "stai facendo soldi coi miei
+contenuti"
+
+- @RivoluzDigitale: USA: chiunque fa una cover deve pagare tot cent
+al detentore dei diritti (pochi cents, scelta politica)
+
+- @RivoluzDigitale: TV via cavo diventa la modalita` di TX piu`
+diffusa per distribuire segnale TV (e, adesso, anche Internet),
+e.g. Comcast
+
+- @RivoluzDigitale:  - Satelliti: progetto Iridium (telefonia accesso
+a Internet in tutto il mondo) fallisce - http://t.co/V2wF3ymG9V
+
+- @RivoluzDigitale: Tecnologie centralizzate: telegrafo, telefono,
+radio, televisione (con piccola parentesi di tv e radio "libere"),
+satellite
+
+- @RivoluzDigitale: "Video killed the radio star", e invece no
+
+- @RivoluzDigitale:  - Internet e' in una fase di transizione in
+cui i media precedenti stanno adattandosi a Internet
+
+- @RivoluzDigitale:  - e' una fase normativa (come radio negli anni
+'20) in cui si definisce il perimetro che assumera` alla fine
+Internet
+
+
+## 2013-04-19
+
+### @funkysurfer
+
+- @ripa_pepperipa: RivoluzDigitale: con Marco Zamperini @funkysurfer
+
+- @SabryKarate: "Imparare facendo" RivoluzDigitale
+
+- @venadavide: Live funkysurfer
+
+- @ripa_pepperipa: RivoluzDigitale: La mente è come un paracadute,
+funziona solo quando è aperta! @funkysurfer
+
+- @a_loffreda: La mente è come un paracadute. Funziona solo quando
+è aperta. (Einstein)
+
+- @SabryKarate: "Innovation by costriction" cit.@funkysurfer
+RivoluzDigitale
+
+- @MorenoLaQuatra: Google plus, netta dimostrazione che l'economia
+di internet è nettamente diversa da quella tradizionale RivoluzDigitale
+con @funkysurfer
+
+- @LorenzoCutelle: Overblog e RebelMouse unisce tutti i tuoi social
+network e li visualizza automaticamente come un unico blog!
+rivoluzdigitale @funkysurfer
+
+- @CaracciFabio: Lezione con zamperini: noiosa?? Macché; comica!!!
+:-)
+
+- @MatteoMonta93: Instagram è la dimostrazione che moltiplicare per
+zero non dà zero.. dà 1 miliardo di dollari! RivoluzDigitale
+
+- @SabryKarate: Foursquare, permette la geolocalizzazione volontaria.
+@funkysurfer RivoluzDigitale
+
+- @SabryKarate: In 10 anni di vita: Mainframe 1 milione di pezzi
+Minicomputer 10 milioni Personal Computer 100 milioni @funkysurfer
+RivoluzDigitale
+
+- @MathieuMauri: @stefano_bitto ahahah per forza, @funkysurfer è
+un genio!
+
+- @stefano_bitto: @MathieuMauri segue la conferenza al corso
+RivoluzDigitale senza mai distogliere lo sguardo O.O
+
+- @SabryKarate: 2,5 miliardi di utenti connessi a Internet entro
+fine anno @funkysurfer RivoluzDigitale
+
+- @BalboDavide: "Angry Birds: lanciare con una fionda degli uccellini
+incazzati su dei maiali verdi, questa è cultura!" cit. @funkysurfer
+RivoluzDigitale
+
+- @MorenoLaQuatra: Le generazioni Y e Z considerano la posta
+elettronica molto superata RivoluzDigitale @funkysurfer verità
+assoluta ormai.
+
+- @SabryKarate: Grazie all'interfaccia assai intuitiva, molti device
+permettono una interazione più naturale @funkysurfer RivoluzDigitale
+
+- @stefano_bitto: Video sui NativiDigitali, fa riflettere. A 10
+anni non sapevo nemmeno che icona cliccare per andare su Internet
+RivoluzDigitale
+
+- @LorenzoCutelle: La stampa tridimensionale è la tecnologia più
+vicina al teletrasporto! @funkysurfer rivoluzdigitale
+
+- @FabioVallone: Ho effettuato l'iscrizione a LinkedIn e ho creato
+il mio profilo professionale. Entra a far parte della mia rete
+http://t.co/rhBmflpene in
+
+- @arduinoallinclu: Rivoluzdigitale,  @funkysurfer cita Arduino
+parlando di stampanti 3D: sono la cosa più vicina al teletrasporto
+e Arduino ne è alla base.
+
+- @DavidePalermo2: @funkysurfer @RivoluzDigitale  A day Made Of
+Glass! http://t.co/X5xKpDG173
+
+- @DavidePalermo2: Matteoooooooooooooooooooooooooo @iMatt360 ...
+@funkysurfer ha provato i Google Glass! :-)
+
+- @stefano_bitto: Metropolitana a Shangai = 5 tacche. Aule del
+politecnico = 2 o 3 al massimo. @funkysurfer
+
+- @SabryKarate: Dipendenza hi-tech, negli ultimi anni c'è la paura
+di rimanere senza connessione a Internet http://t.co/YUML8ptvRy
+RivoluzDigitale
+
+- @SabryKarate: Entro 2014 i terminali mobili saranno il primo
+canale di accesso ad Internet @funkysurfer RivoluzDigitale
+
+- @93_checco: Nell' arco delle 24 ore mediamente non ci allontaniamo
+mai più di 20 cm dal nostro cellulare rivoluzdigitale funkysurfer
+
+- @WillieMacdouga: La lezione con @funkysurfer  mi ha fatto sentire
+un vecchio.
+
+- @stefano_bitto: "Si sta avverando sempre più la singolarità uomo-
+macchina" @funkysurfer RivoluzDigitale
+
+- @Da93Mo: RivoluzDigitale lezione interessante e divertente
+@funkysurfer
+
+- @FeFallace: Ogni tanto Milano insegna a Torino...@funkysurfer at
+rivoluzdigitale
+
+- @SabryKarate: E' importante creare una consistente identità online
+@funkysurfer RivoluzDigitale
+
+- @SabryKarate: Grazie per la fantastica lezione! Interessante ed
+anche divertente. A quando il bis?  @funkysurfer
+
+- @vitalethomas: Lezione divertente e interessante sui socialmedia
+al corso di rivoluzdigitale  | Grazie @funkysurfer :)
+
+- @SoFranchy: Intelligente mix tra conoscenze e comicità ha reso
+la lezione di @funkysurfer per Rivoluzdigitale interessante,
+stimolante e divertente.
+
+- @ripa_pepperipa: @RivoluzDigitale Lezione fantastica con Marco
+Zamperini @funkysurfer
+
+- @rd_informazione: Ancora grazie da "Evoluzione e manipolazione
+dell'informazione" a @funkysurfer per la stimolante e divertente
+lezione di RivoluzDigitale
+
+- @iacopo_poli: In formissima il @funkysurfer Marco Zamperini,
+illuminante! openmind RivoluzDigitale
+
+- @SoFranchy: @funkysurfer ovviamente esclusi gli apprezzamenti a
+@bassosimone :)
+
+- @paolopopolizio: Twitter lancia la sua  http://t.co/VQNmqBVrVW
+via @repubblicait
+
+- @paolopopolizio: Shazam, non soltanto la musica: ora riconosce
+anche i programmi tv - Repubblica.it http://t.co/HoXBYcQ6uT via
+@repubblicait
+
+- @Ale_Cannone: @RivoluzDigitale Oltre alla 'normale' lezione anche
+una lezione di vita: "imparate facendo!". @funkysurfer
+
+- @paolopopolizio: RivoluzioneDigitale: lezione con Marco Zamperini
+@funkysurfer, davvero istruttiva, grazie.
+
+- @paolopopolizio: RivoluzioneDigitale: LinkedIn: un servizio web
+di rete sociale, impiegato principalmente per lo sviluppo di contatti
+professionali.
+
+- @paolopopolizio: RivoluzioneDigitale: Foursquare è un social
+network basato sulla geolocalizzazione disponibile tramite web e
+app per dispositivi mobili.
+
+- @paolopopolizio: RivoluzioneDigitale: per chi non lo sapesse
+Zettabyte = 10^21 byte. Un'unità di misura dell'informazione o della
+quantità di dati.
+
+- @paolopopolizio: RivoluzioneDigitale: Exabyte = 10^18 byte. Anche
+questa un'unità di misura dell'informazione o della quantità di
+dati.
+
+- @StefanoFranz20: Zamperini maestro di vita ... lezione costruttiva
+e divertente, solo pochi ci riescono :)  @funkysurfer
+
+- @paolopopolizio: RivoluzioneDigitale: @funkysurfer : "i giovani
+sono più propensi alla nuova tecnologia perché non hanno una barriera
+culturale"
+
+- @paolopopolizio: RivoluzioneDigitale: Umanizzazione degli apparati:
+prima è l'uomo che si doveva adeguare alla macchina, oggi la macchina
+si adatta a lui.
+
+- @paolopopolizio: RivoluzioneDigitale: e-penis : misura la tua
+reputazione su twitter
+
+- @paolopopolizio: RivoluzioneDigitale: siry personal assistant
+digitale
+
+- @paolopopolizio: RivoluzioneDigitale: siry personal assistant
+digitale http://t.co/wKJIM874dF date un occhiate @RivoluzDigitale
+
+- @MorenoLaQuatra: Interessantissima ed esilarante lezione oggi al
+polito RivoluzDigitale , grazie a @funkysurfer i miei complimenti.
+
+- @Simon_Tumi: Lezione molto interessante a @RivoluzDigitale  con
+un mitico Marco Zamperini @funkysurfer
+
+
+## 2013-04-17
+
+### @bassosimone
+
+- @DavidePalermo2:  Analizziamo una versione beta della situazione
+Blog e Blogpost Enjoy! #sapevatelo
+
+- @DavidePalermo2: Correzione fatta su più passaggi: 1) di "forma"
+2) di "sostanza" (a volte manca se la forma non va bene)
+
+- @MorenoLaQuatra: Presentazione errori e imperfezioni dei vari
+blog. Temi delle correzioni: forma e sostanza
+
+- @SabryKarate: Sono importanti FORMA e SOSTANZA
+
+- @SoFranchy:  correzione in più passaggi: fonti, forma, sostanza.
+
+- @SoFranchy:  Criteri per la forma: tempismo, immagini, fonti
+(link), paragrafi (suddivisione, lunghezza), "lo pensi, lo sai, hai
+letto?"
+
+- @MorenoLaQuatra: Criteri di correzione sulla forma: tempismo,
+immagini, fonti, paragrafi, "lo pensi, lo sai, l'hai letto", tag.
+
+- @SoFranchy:  Criteri per la forma: ...tags, categorie.
+
+- @SabryKarate: Per la sostanza sono essenziali: Titolo, Introduzione
+dell'articolo
+
+- @SabryKarate: Attenzione all'articolazione del post: prediligere
+la linearità, evitare i "voli Pindarici"
+
+- @MorenoLaQuatra: Criteri di correzione Sostanza: titolo, attacco,
+articolazione, approfondimento
+
+- @SoFranchy:  Criteri per sostanza: titolo, incipit, articolazione
+(ragionamento sequenziale), approfondimento
+
+- @ripa_pepperipa: : quando viene pubblicato un post nel blog,
+risulta fondamentale citare le fonti!
+
+- @MorenoLaQuatra: Per le immagini: citare la fonte, caricarla nel
+nostro server. Fonti sotto l'immagine o in fondo al sito
+
+- @SabryKarate: Fonti delle immagini, due modi: scrivere sotto le
+immagini o in fondo al post
+
+- @DavidePalermo2: Non si è "Nazisti" nella valutazione della scelta
+delle foto (CC o meno); precisi invece per verifica cit. delle fonti
+
+- @SabryKarate: E' preferibile citare il link della fonte all'interno
+del testo, non in fondo al post
+
+- @ripa_pepperipa: : Come citare le fonti? Attraverso collegamenti
+ipertestuali all'interno del testo o citando i link in fondo alla
+pagina
+
+- @ripa_pepperipa: : bisogna mettere in relazione le riflessioni
+personali e gli articoli che circolano nel web
+
+- @SabryKarate: Inserire i tag per i post, tra 4 ed 8, in modo da
+rendere chiaro l'argomento di cui si è scritto
+
+- @venadavide: Chiarimenti su come citare le fonti in un articolo.
+
+- @MorenoLaQuatra: Attenzione ai tag, valutare ogni situazione,
+usare più il buon senso che una regola univoca.
+
+- @93_checco: Esempi su come Utilizzare i paragrafi.  Non utilizzare
+il "punto a capo" all interno di un paragrafo!
+
+- @93_checco: Alcuni video non si aprono dal link? Può succedere
+
+- @venadavide: Importantissimo un approfondimento personale all'interno
+del post per aggiungere informazioni a quelle già presenti sul web
+
+- @93_checco: No punto a fine titolo e no dopo nome e cognome
+
+- @93_checco: Fonti non troppo generiche, Wikipedia è troppo vasta
+
+- @SabryKarate: Niente punto alla fine del titolo del post, né dopo
+la firma.  Non inserire link generici alle fonti
+
+- @MorenoLaQuatra: Neve gialla non si mangia (cit. Maglia di
+@bassosimone )
+
+- @93_checco: Non è necessario concludere il post con una indicazione
+su come "migliorare il mondo"
+
+- @MorenoLaQuatra: RT @93_checco: Non è necessario concludere il
+post con una indicazione su come "migliorare il mondo"
+
+- @93_checco: Tutti a casa
+
+- @paolopopolizio: #RivoluzioneDigitale: elementi fondamentali nella
+struttura di un post: --&gt;forma---&gt;sostanza--&gt;
+
+- @paolopopolizio: #RivoluzioneDigitale: in un post è consigliabile
+citare la fonte con i link, non in fondo alla pagina
+
+- @paolopopolizio: #RivoluzioneDigitale: "i paragrafi sono come una
+i gradini di una scala, più sono grandi più sono difficili da
+leggere"
+
+- @paolopopolizio: #RivoluzioneDigitale: non è consigliabile dire
+"io penso" nel post se non si è esperti dell'argomento
+
+- @paolopopolizio: #RivoluzioneDigitale: "l'ho letto, l'ho
+sperimentato", va specificato, caratterizza il post
+
+- @paolopopolizio: #RivoluzioneDigitale: è consigliabile mettere
+"embed" invece del link alla pagina di youtube
 
 
 ## 2013-04-12
@@ -4471,7 +6951,7 @@ mnemonico. #Rivoluzdigitale
   di cavi (Guglielmo Marconi, 1895)
 
 - RT @SabryKarate: Invenzione del telegrafo senza fili, prima trasmissione:
-  marzo 1899, Canale della Manica #RivoluzDigitale
+  marzo 1899, Canale della Manica 
 
 - L'invenzione di Marconi a Londra viene capita, e apprezzata dalla Marina
   Britannica (per coordinate le corazzate)
@@ -4518,6 +6998,54 @@ mnemonico. #Rivoluzdigitale
 
 - 1920 KDKA e' la prima stazione radio (1910 prima trasmissione in aeroplano)
 
+- primo produttore commerciale di radio a new york teneva
+  separati livello di contenuti e tx, si rivolge a sindacati,
+  partiti politico e company
+
+- ma questo mercato non si materializza, e cosi` cambia il
+  modello di business: chi ha costruito la stazione si mette
+  anche a produrre contenuti
+
+- ma chi riceve non paga nulla... che se fa? pubblicita`
+
+- questa idea della pubblicita` era stata fatta gia`
+  dai quotidiani
+
+- poche frequenze, possono parlare poco e si crea un problema
+  di liberta` di espressione e pluralismo!
+
+- in europa invece il sistema e' di monopolio pubblico (incluso UK)
+
+- LOL: in BBC la parola corporation e' in senso medioevale
+
+- teatri, cantanti etc. fanno molte storie alla radio, e non
+  appena le radio cominciano a leggere notizie, i quotidiani
+  fanno forte resistenza
+
+- i quotidiani si cautelano comprando stazioni radio
+
+- risultato: COMPROMESSI
+
+- 1927, prima dimostrazione pratica della trasmissione di
+  immagini via etere (!!!)
+
+- la televisione e' stata inventata troppo presto
+
+- la germania nazista aveva anche fatto esperimenti con
+  la televisione
+
+- FCC deliberatamente rallenta la televisione, come fanno
+  tutte le burocrazie statali quando serve: fa un comitato
+  e gli chiede di studiare il problema :)
+
+- roosevelt, chiacchiere vicino al caminetto
+
+- durante WWII si sviluppa elettronica, ci sono anche molti
+  disoccupati, ed e' ecco che c'e` necessita` sociale per
+  la televisione
+
+- anni '50 decolla la televisione in USA
+
 
 ## 2013-04-05
 
@@ -4525,8 +7053,15 @@ mnemonico. #Rivoluzdigitale
 
 #### Recap rivoluzioni politiche
 
-- storici dicono che: impatto molto forte della stampa sulle rivoluzioni (di
-  idee) inglese, americana e francese
+
+- storici dicono che la stampa abbia suscitato un impatto molto
+forte sulle rivoluzioni inglese, americana e francese. Queste si
+basavano su una rivoluzione di idee le quali hanno influenzato il
+pensiero umano
+
+- della Rivoluzione Inglese ricordiamo due importanti partiti:
+Levellers (http://www.treccani.it/enciclopedia/levellers/) e Diggers
+(http://it.wikipedia.org/wiki/Diggers)
 
 - qualcosa di simile (i.e., impatto della stampa su dibattito) successo con
   lutero: due settimane di botta e risposta e 10K+ copie diffusione
@@ -4534,10 +7069,11 @@ mnemonico. #Rivoluzdigitale
 - Nota: anche in paesi molto poveri con alti tassi di analfabetismo c'era una
   diffusione grande della stampa via gruppi di lettura
 
-- Ad esempio: robert darnton, storico del '700, scrive sulla letteratura
-  underground prima della rivoluzione francese in francia
+- Ad esempio: dalla rivoluzione francese ricordiamo Robert Darnton,
+storico del '700 (pieno illumiinsmo), scrive sulla letteratura
+underground prima della rivoluzione francese in Francia
 
-- underground perche\` c'era la censura: stampavano in inghilterra e poi
+- underground perche\` c'era la censura: stampavano in Inghilterra e poi
   diffondevano clandestinamente
 
 - per le rivoluzioni francese e americana si puo\` decisamente parlare di
@@ -4548,8 +7084,9 @@ mnemonico. #Rivoluzdigitale
 - "riformista" (corrente dominante, "viva la ragione ma senza esagerare",
   e.g., misoginia, razzismo - principale esponente di questa corrente Voltaire)
 
-- "radicale" (prende sul serio i concetti di illuminismo - d'Holbac; Spinoza
-  viene visto come il padre dell'illuminismo radicale)
+- "radicale" (prende sul serio i concetti di illuminismo - maggior
+esponente: d'Holbac; Spinoza viene visto come il padre dell'illuminismo
+radicale - '600)
 
 - dichiarazione universale dei diritti dell'uomo del 1948 e la nostra
   costituzione sono figlie di una ripresa di questi principi filosofici
@@ -4557,13 +7094,14 @@ mnemonico. #Rivoluzdigitale
 
 #### Recap LA rivoluzione scientifica
 
--  Newton, Galileo, Bacon; metodo scientifico, misura e sperimentazione
+-  Newton, Galileo, Bacon, Copernico; metodo scientifico, misura e
+sperimentazione
 
 - (chiaramente tutte le rivoluzioni sono molto intrecciate tra loro)
 
--  all’interno de LA rivoluzione scientifica e poi ci sono le mini-rivoluzioni
-   interne alla rivoluzione scientifica, ossia i "cambi di paradigma" di T.
-   Kuhn, e.g., Einstein con la relativita\`
+-  all’interno de LA rivoluzione scientifica possiamo collocare le
+mini-rivoluzioni, ovvero i "cambi di paradigma" di T. Kuhn, e.g.,
+Einstein con la relativita\`
 
 - Apriamo parentesi
 
@@ -4574,11 +7112,10 @@ mnemonico. #Rivoluzdigitale
   politici l'impero cinese non vuole sviluppare 'sta roba e tutto viene
   dimenticato
 
-- questo per dire che la scienza e' un *sistema sociale* e non una retta che
-  procede linearmente (e.g., se i miei pari non sono pronti a ricevere la mia
-  scoperta, puo\` benissimo essere che la scoperta non venga riconosciuta)
-
-- interazioni all’interno della scienza
+- questo per dire che la scienza e' un *sistema sociale* che
+interagisce al suo interno e non una retta che procede linearmente,
+(e.g., se i miei pari non sono pronti a ricevere la mia scoperta,
+puo\` benissimo essere che la scoperta non venga riconosciuta)
 
 - e' sociale anche nel senso di interazione con la societa\`: se il governo
   dice "ci sono soldi per studiare X" allora noi ci mettiamo a studiare X
@@ -4591,7 +7128,8 @@ mnemonico. #Rivoluzdigitale
 
 #### Recap rivoluzione Industriale
 
-- Si inizia a usare l'espressione nel 1820
+- Si inizia a usare l'espressione nel 1820 - in Francia, poi si
+avra\` una graduale diffusione.
 
 - Telaio meccanico e vapore sono le tecnologie chiave
 
@@ -4610,7 +7148,7 @@ mnemonico. #Rivoluzdigitale
 
 ##### Sulla tecnologia in se’
 
--  affermazione: "la tecnologia in se' e' neutra e quello che conta e'
+-  affermazione: "la tecnologia in se' e' neutra, cioe' quello che conta e'
    l'utilizzo che se ne fa" <-- parliamone
 
 - 1) tecnologia = strumenti sviluppati da esseri umani (autodidatti,
@@ -4619,7 +7157,7 @@ mnemonico. #Rivoluzdigitale
 - -\> c'e\` un momento di ideazione (che puo\` essere andare per tentativi
   alla Edison oppure applicazione di scoperte scientifiche, piu\` nello stile
   di Tesla)
-
+  
 - Cfr. Guerra delle correnti [wikipedia] “La rivalità tra Edison e
   Tesla ha radici ben più profonde rispetto alla mera questione
   economica che si venne a creare [...]. Edison non aveva una
@@ -4636,7 +7174,7 @@ mnemonico. #Rivoluzdigitale
 - i.e., la fonte puo\` essere un dato scientifico (di cui qualcuno vede una
   possibile applicazione pratica) oppure una intuizione pratica
 
-- gia\` questo processo non e' astratto e non avviene in una camere asettica:
+- gia\` questo processo non e' astratto e non avviene in una camera asettica:
   sono esseri umani in un contesto socio-economico-politico e sono ovviamente
   da questo influenzati
 
@@ -4663,8 +7201,8 @@ mnemonico. #Rivoluzdigitale
   feature, decisione sul prezzo di vendita, etc. -- insomma COME rendere
   disponibile
 
-- i.e., ampie possibilita\` di decidere QUANDO e COME diffondere l'invenzione
-  o l'innovazione
+- In questa fase ci sono ampie possibilita\` di decidere QUANDO e
+COME diffondere l'invenzione o l'innovazione
 
 - Riguardandola, non sembra proprio una traiettoria lineare e puramente
   tecnico-scientifica
@@ -4679,8 +7217,9 @@ mnemonico. #Rivoluzdigitale
 
 - Negli anni '30 qualcuno inventa nei bell labs un registratore audio su
   nastro (includendo una serie di innovazioni molto interessanti e dirompenti)
+  - -\> Tecnologia Analogica
 
-- Prima di questo si poteva registrare la voce con i cilindri a cera di edison
+- Prima di questo si poteva registrare la voce con i cilindri a cera di Edison
   ma con i registratori elettromeccanici si puo\` fare meglio e a basso costo
 
 - Il ricercatore porta ai suoi capi l’invenzione e i capi di AT&T decidono che
@@ -4708,11 +7247,23 @@ mnemonico. #Rivoluzdigitale
 - Elenco di 76 domande sulla tecnologia di jacques Ellul - nel programma
   http://en.wikipedia.org/wiki/Jacques\_Ellul
 
+- Breve nota sui brevetti: prevedono che l'invenzione venga pubblicata
+
+- Di cosa ha bisogno l'inventore? a) Di oggetti fisici b) Di capitali
+
+- L'inventore deve chiedere permesso a qualcuno? Dipende! Si, se
+altri inventori hanno precedentemente pubblicato un brevetto, per
+evitare di entrare in contrasto. Su Internet nessun vincolo ci
+ostacola
+
+- Col digitale: IDEA + SKILLS + COMPUTER + INTERNET - -\> posso
+pubblicizzare senza problemi e con costi minimizzati
+
 ####  Tecnologie della comunicazione
 
-- Tecncologie per trasmettere segni
+- Tecncologie per trasmettere significato e segni
 
-- Scrittura
+- Scrittura (3200 a.C. - Mesopotamia)
 
 - Leggiamo il passaggio del Fedro di Platone in cui si parla dei pros e cons
   di writing
@@ -4729,11 +7280,249 @@ mnemonico. #Rivoluzdigitale
 
 - Gutemberg, Magonza (Renania-Palatinato), 1455
 
-- 1 libro = 1 giorno e costa decisamente meno
+- Con la Stampa: 1 libro = 1 giorno di lavoro, prezzi piu' bassi e possibilita' 
+  di una piu' ampia produzione
 
-- Inolte, si cominciano a stampare testiche i monaci non avrebbero mai copiato
+- Inolte, si cominciano a stampare testiche; i monaci non avrebbero mai copiato
   di loro iniziativa
 
 - Fine '400: 30k titoli e 12 milioni di copie
 
 - La capitale della stampa alla fine del ‘400 e' Venezia
+
+
+## 2013-03-27
+
+### @demartin
+
+- Rivoluzione da "revolvere", cioe\` tornare indietro, termine usato
+per primo da Copernico
+
+- Copernico usa "rivoluzione" in ambito astronomico (e non politico)
+
+- Nel medioevo e nel Rinascimento la "rivolta" (ancora non si chiamava
+cosi\`) era un ritorno indietro, all' "eta dell'oro"
+
+- Il primo utilizzo politico della parola "rivoluzione" e' la
+rivoluzione inglese (1642-1660); un secolo e mezzo dopo Copernico
+
+- Contrapposizione tra Carlo I, che aveva bisogno di soldi per guerra
+in Francia vs. ugonotti, e classe mercantile (e parlamento)
+
+- Rapidamente lo scontro si radicalizza e si arriva a una vera e
+propria guerra civile
+
+- Vincono i parlamentari, guidati dal generale cromwell; mettono sotto
+processo il re e lo condannano a morte
+
+- A un certo punto Cromwell dichiara la repubblica (che i realisti
+chiamano, pero\`, "interregno")
+
+- Per essere piu\` precisi: il periodo della repubblica e' "il periodo
+del commonwealth" (14 anni)
+
+- Nota: prendere, tagliare la testa al re e dichiarare la repubblica
+e' certamente innovativo (oggi diremo, appunto, "rivoluzionario")
+
+- La rivoluzione inglese e’ molto legata alla stampa a caratteri
+mobili (Gutemberg), grazie alla quale si diffondono molto
+velocemente le idee
+
+- Vengono stampati libretti dal contenuto fortemente politico: e'
+anche una guerra civile delle idee
+
+- Per influenzare la pubblica opinione, si cominciano a anche stampare
+deliberatamente menzogne
+
+- Esempio: Cromwell sbarca in Irlanda e (banalizzo) fa stragi, ma sui
+pamphlet pro-Cromwell dell'epoca si dice che gli Irlandesi sono
+“brutti e cattivi"
+
+- Si formano primi partiti politici, tra cui "dissenters" e "levelers"
+(questi erano i piu\` radicali)
+
+- Nota: in seguito verra\` chiarito: “diggers” vs. “levelers”
+
+- In quel periodo si inizia a discutere se tutti abbiano diritto di
+votare oppure no
+
+- Come anche si parla di abolire la proprieta\` privata
+
+- A un certo punto, allora, Cromwell dice "OK parliamone" - e si hanno
+i "dibattiti di Putney" (http://t.co/HMocS6XCss)
+
+- Nota: dopo tre giorni Cromwell suggerisce di smettere di prendere
+appunti
+
+- La definitiva \*restaurazione\* della monarchia viene definita
+"Glorious Revolution" (dove revolution = ritorno) ma poco dopo
+quella del 1642 si comincia a chiamare "The English Revolution"
+
+- Vediamo perche\` si cominciano a chiamare “Revolution” i fatti del
+1942 e anni seguenti
+
+- Primo motivo
+
+- Flash back, nel 1215 vengono concesse Magna Charta (ai baroni) e
+carta de foresta (ai commoners)
+
+- La carta de foresta sanciva i diritti dei lord, quella de foresta i
+diritti dei commoners (come, ad esempio, pascolare nei campi
+“comuni”, o “commons”)
+
+- La English Revolution viene chiamata “revolution” nel senso di un
+ritorno all’eta\` dell’oro, cioe\` alla Carta de Foresta, in cui i
+commoners avevano ricevuto diritti nuovi e c’erano meno tasse
+(banalizzo: si stava meglio)
+
+- More info su Magna Carta (http://t.co/1qNzHIbnsV) e Carta de foresta
+(http://t.co/T6kVWPuTUb)
+
+- Secondo motivo
+
+- Gli inglesi del 1640 (anche i monarchici) sapevano di almeno 2
+repubbliche: rep. romana e venezia
+
+- P.S. gli inglesi del 1640 (anche i monarchici) sapevano di almeno 2
+repubbliche: rep. romana e venezia
+
+- I concetti della riv. inglese, per vari effetti collaterali, hanno
+echi anche nel new england -- (http://t.co/OTTwA99zTQ)
+
+- la Riv. Inglese influenzera\` la Rivoluzione Americana - anch'essa
+una rivoluzione di idee
+
+- Per esempio, l'esperienza della rep. romana e' molto presente ai
+padri fondatori US, specialmente a Jefferson
+
+- Anche in questo caso, in breve si passa dalle richieste di autonomia
+a una vera e propria guerra a Re Giorgio III
+
+- 1776 dichiarazione di indipendenza - 1781 costituzione americana
+
+- la costituzione americana viene dibattuta lungamente sui giornali
+prima di essere scritta - (http://t.co/j0lZZUZLXa)
+
+- Nota: abbiamo citato le riv. inglese anche xke\` li\` si inizia a
+parlare di liberta\` di espressione -- (http://t.co/buNR9pzjlG) -- concetto
+su cui torneremo diffusamente durante tutto il corso
+
+- Diamo una def. di rivoluzione politica: breve, violenta,
+trasformazione radicale della struttura del potere politico
+
+- Beh, ma ovviamente noi in questo corso non parliamo di rivoluzioni
+politiche: c'e\` anche un II significato: stiamo parlando della
+"Rivoluzione Industriale" - impatto su societa\`, commercio
+
+- Il corso Rivoluzione Digitale e' figlio dell'accezione di
+rivoluzione in Rivoluzione Industriale
+
+- Se volete approfondire, ovviamente Wikipedia e' vostra amica:
+https://t.co/haklLnSBbL
+
+- L'anello di congiunzione tra Riv. politica e industriale e' la
+trasformazione radicale
+
+- La "societa\` lunare" e' un esempio di club amatoriale che prepara
+condizioni per Riv. Industr. https://t.co/Q8TbHDTj0u
+
+- A differenza delle rivoluzioni politiche, la Rivoluzione Industriale
+e' una trasformazione tecno-sociale, su tempi lunghi (decenni,
+generazioni)
+
+- Tecnologie chiave della Rivoluzione Industriale: vapore, telaio
+meccanico (proto-programmazione (https://t.co/VpAsuDCREp))
+
+- Da questo momento, si comincia a dire "rivoluzione" per nuove
+tecnologie dirompenti, i.e., "rivoluzione elettrica"
+
+- Retroattivamente (a inizio '900) si inizia a parlare di "Rivoluzione
+di Gutemberg"
+
+- Breve parentesi: definiamo il termine “geek” - (http://t.co/v3L9tQqAMI)
+
+- E' inappropriato dire che uno specifico gadget sia una
+"rivoluzione"; e' chiaramente un iperbole
+
+- A noi interessa capire se complessivamente possiamo dire
+"rivoluzione" delle tecnologie digitali nel loro complesso
+
+- Studieremo l'impatto di queste tecnologie su societa\`, cultura,
+universita\` e altri aspetti, per poi trarre le conclusioni
+
+- Cercheremo anche di capire che cosa innesca una rivoluzione
+tecnologica (tipicamente una scoperta) - Terzo significato:
+rivoluzione scientifica
+
+- Thomas Kuhn parla di "rivoluzioni scientifiche" - accezione ancora
+diversa: cambio di paradigma scientifico
+
+- la prima "Rivoluzione Scientifica" e' quella del 1600 (Galileo,
+Newton, Francis Bacon (non il pittore, eh!), etc.)
+
+- "la struttura delle rivoluzioni scientifiche" di T. Kuhn studia
+proprio le varie rivoluzioni scientifiche
+
+- Memento: dovete formare i gruppi entro il 5 Aprile
+
+
+## 2013-03-20
+
+### @demartin
+
+- punto interrogativo implicito dopo “Rivoluzione Digitale”: obiettivo
+e’ cercare di capire meglio e in modo critico questa trasformazione
+
+- metodologia: parte online e scritto
+
+- Maggiori info: http://rivoluzionedigitale.polito.it/regole
+
+- I blog dello scorso anno sono disponibili qui:
+http://rivoluzionedigitale.polito.it/2012-blog-studenti
+
+- vogliamo anche farvi capire cosa sono i canali adatti per quale
+messaggio - un curriculum dove lo mettereste?
+
+- come gruppo, e' obbligatorio mettere sul blog un breve video
+sull'argomento del blog: sta diventando frequente che chiedano di
+fare un video di due minuti in cui il candidato una qualche posizione
+si presenta
+
+- a proposito di scrivere bene le email
+
+- “se non mandate messaggi email ben scritti, una persona molto
+occupata tipicamente vi ignora”
+
+- “se mi scrive uno sconosciuto e mi scrive male, non sono affatto
+tenuto a rispondere”
+
+- Blog notevole "Brain Pickings" di Maria Popova (@brainpicker)
+brainpickings.org
+
+- breve introduzione alle licenze creative commons funzionale ai blog
+
+- Brevetti != diritto d’autore
+
+- i brevetti tutelano l'idea (e bisogna andare all'ufficio brevetti)
+
+- il diritto d'autore, invece, tutela l'opera (meglio, la specifica
+forma espressiva) ed e' automatico; con automatico si intende che
+non bisogna fare nulla perche\` si applichi: no ufficio "autori",
+no formalita\`: la SIAE certifica, ma non c'entra nulla col fatto
+che la legge vi tutela automaticamente
+
+- il diritto d'autore fornisce una lunga serie di diritti sull'opera
+che durano fino a (in EU) 70 anni dopo morte autore (i.e., “morte
++ 70”)
+
+- chi non e' l'autore puo\` fare pochi usi, e molto ristretti,
+dell'opera fino, appunto, a "morte + 70"
+
+- la legge sul diritto d'autore era pensata per l'industria culturale,
+ma ora si applica anche al blog, alla ricetta
+
+- le licenze Creative Commons sono state pensate per permettere agli
+autori di rinunciare ad alcuni diritti; per esempio il diritto a
+copiare e modificare l'opera - more info qui:
+
+- http://it.wikipedia.org/wiki/Licenze\_Creative\_Commons
